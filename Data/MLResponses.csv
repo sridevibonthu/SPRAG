@@ -1,0 +1,1566 @@
+QuestionID,StudentAnswer,Score1,Score2
+BasicML045, a graphical representation that organizes a group of data points into user-specified ranges.,4,3
+BasicML042," Accuracy, Recall, Precision, and F1- Score",4,4
+BasicML044," Box plot,Histograms,,scatter plot,Violion plot",4,4
+BasicML037," Box plot,Histograms,,scatter plot,Violion plot .",5,5
+BasicML034, Box plots give a good graphical image of the concentration of the data.,3,3
+BasicML030," Data visualization gives us a clear idea of what the information 
+means by giving it visual context through maps or graphs. This 
+makes the data more natural for the human mind to 
+comprehend and therefore makes it easier to identify trends, 
+patterns, and outliers within large data sets.",5,5
+BasicML013," Data=pd. read_csv(""filename"")",3,3
+BasicML046, detect missing values in the given series object,2,2
+BasicML018," exploratory analysis is what you do to understand and get familiar with your data and
+ generate information.",4,3
+BasicML041," For every data point, you take the distance vertically from the point to the corresponding y value on the curve fit (the error), and square the value.",4,4
+BasicML015, Handling missing data and cleaning up the data,2,2
+BasicML045, histogram is a graphical representation that organizes a group of data points into user-specified ranges,4,4
+BasicML002," I really liked the kaggale.Kaggle allows users to find and publish data sets, explore and build models in 
+a web-based data-science environment. It also helps to improve self-learning skills.
+",5,4
+BasicML020, In binary classification we have only two classes but in multiclass classification we have more than two classes,4,4
+BasicML019, its use of labeled datasets to train algorithms that to classify data or predict outcomes accurately,4,4
+BasicML017, lies an abnormal distance from other values in a random sample from a population.,4,4
+BasicML033, measure of errors between paired observations with same expression,2,1
+BasicML047," Nominal data is “labeled” or “named” data which can be 
+divided into various groups that do not overlap.",4,4
+BasicML047," Nominal data is “labeled” or “named” data which can be 
+divided into various groups that do not overlap. Data is not 
+measured or evaluated in this case, it is just assigned to multiple 
+groups. These groups are unique and have no common 
+elements.
+",5,5
+BasicML047," Nominal data is “labeled” or “named” data which can be 
+divided into various groups that do not overlap. Data is not 
+measured or evaluated in this case, it is just assigned to multiple 
+groups. These groups are unique and have no common 
+elements.",5,5
+BasicML016, observe and show relationships between two numeric variables.,3,3
+BasicML023, One of the main advantages of using Numpy arrays is that they take less memory space and provide better runtime speed when compared with similar data structures in python(lists and tuples). Numpy support some specific scientific functions such as linear algebra.,4,3
+BasicML008, population is used when we want to pick entire group.A sample is the specific group that  the data collected  from.,4,4
+BasicML023," the main advantages of using Numpy arrays is that they take less memory space and provide better runtime speed when compared with similar data structures in python(lists and tuples). 
+Numpy support some specific scientific functions such as linear algebra.",4,3
+BasicML016, They show correlation of variables,2,2
+BasicML031, used to show  behavior on specific webpages ,2,2
+BasicML043,"
+Import numpy
+Take a list of numbers
+List=[1, 2, 3, 4, 5]
+Arr= numpy.array(List)",5,5
+BasicML046,"
+Returns a Boolean value that indicates whether an expression contains no valid data (Null).",5,5
+BasicML038,"
+1. Determining the objective
+2. Data Collection
+3. Data Cleaning
+4. Interpreting the data
+5. Sharing the results",5,5
+BasicML032,"
+unique() method of pandas library returns unique values based on a hash table. Uniques are returned in order of appearance. This does not sort. pandas unique() is significantly faster than numpy.unique().",5,5
+BasicML010,"""Drop"" function is used to delete a column of a data frame.",2,2
+BasicML013,"#import pandas 
+import pandas as pd
+#reading csv file
+pd.read_csv(""filename.csv"")",5,5
+BasicML013,"#import pandas
+import pandas as pd
+#reading csv file
+pd.read_csv(""filename.csv"")",5,5
+BasicML013,"#import pandas
+import pandas as pd
+#reading csv file
+pd.read_csv(""filename.csv"")",5,5
+BasicML049,*No idea ,0,0
+BasicML004,.head,1,2
+BasicML038,"1) used to define a question
+2) clear the measurements priorities
+3)To collect data
+4) used to analyze data",4,3
+BasicML038,"1)Ask The Right Questions
+2) Data Collection. 
+3) Data Cleaning. ...
+4) Analyzing The Data. ...
+5) Interpreting The Results",5,5
+BasicML038,"1)Asking appropriate questions to get right data
+2) Collecting the right data
+3) Cleaning the data
+4) Analysing the data
+5) Representing the data",5,5
+BasicML038,"1)Define our questions
+2)set clear measurements of data
+3) collection of data
+4) analysing our data
+5)interpret the results",5,5
+BasicML038,"1. Determining the objective
+2. Data Collection
+3. Data Cleaning
+4. Interpreting the data",4,4
+BasicML042,"1.Accuracy
+2.Confusion Matrix
+3.Log-loss",4,3
+BasicML038,"1.ask the right questions 
+2.data collection 
+3.data cleaning 
+4.analyzing data 
+5.intrepreting the results ",5,5
+BasicML038,"1.Asking questions
+2.Data collection
+3.Data cleaning
+4.Analyzing the data
+5.Interpretting the data",5,5
+BasicML038,"1.collect data,2.analyze data,3.interpret data",3,3
+BasicML038,1.define your questions.2.set clear measurements priorities.3.collect data.4. analyse data.5.interpret results,5,5
+BasicML038,"1.Defining questions 
+2.set clear measurements 
+3.collecting data
+4.analyzing data
+5.interpret results.",5,5
+BasicML035,"1.Mean Squared Error
+2.Root mean squared Error
+3.Mean absolute Error",5,5
+BasicML043,"1D array contains elements only in one direction.
+Firstly make a list then pass it in numpy.array()
+a= no.array([list])",5,4
+BasicML028,3D array and it is a library.,1,0
+BasicML034,"A boxplot is a graph that gives a good indication of how the values in the data are spread out. Boxplots are a standardized way of displaying the distribution of data based on a five number summary (minimum - first quartile (Q1), median - third quartile (Q3), and maximum.",5,5
+BasicML034,"A boxplot is a graph that gives a good indication of how the values in the data are spread out. Boxplots are a standardized way of displaying the distribution of data based on a five number summary (minimum - first quartile (Q1), median - third quartile (Q3), and maximum.",5,5
+BasicML006,A collection of data,2,2
+BasicML006,A collection or a set of data which in generally a tabular form,4,4
+BasicML016,A data plotted in the forms of circles .,0,0
+BasicML006,A Data set is a set or collection of data.,4,4
+BasicML020,A data set which classifies into two classes is known as binary classification and which classifies into more than two classes is multi class classification,3,3
+BasicML017,a data-item,0,0
+BasicML006,A dataset is a collection of data,4,3
+BasicML006,a dataset is a collection of objects which is used to train  the machine by using a machine algorithm.,4,4
+BasicML029,"A discrete data contains only certain values, for example integers. A continuous data can have any value within a specified range,for example height. ",4,4
+BasicML029,"A discrete distribution is one in which the data can only take on certain values, for example integers. A continuous distribution is one in which data can take on any value within a specified range (which may be infinite).",5,5
+BasicML008,A entire group used for designing a data is called Population. A specific group for designing a data is called Sample,3,3
+BasicML045,a graphical representation of data in a color coded system,0,0
+BasicML045,A graphical representation that operates a group of data points into specified ranges,3,3
+BasicML045,"A histogram  is a graphical  representation  that  organizes  a group  of data  points  into  userspecified  ranges.  Similar  in  appearance  to  a  bar graph,  the histogram  condenses  a data  series  into  an  easily interpreted  visual  by  taking  many  data  points  and  grouping  them  into bins",5,5
+BasicML045,"A histogram is a graphical representation that organizes a group of 
+data points into user-specified ranges. Similar in appearance to a bar 
+graph, the histogram condenses a data series into an easily 
+interpreted visual by taking many data points and grouping them into 
+logical ranges or bins.",5,5
+BasicML045,"A histogram is a graphical representation that organizes a group of 
+data points into user-specified ranges. Similar in appearance to a bar 
+graph, the histogram condenses a data series into an easily 
+interpreted visual by taking many data points and grouping them into 
+logical ranges or bins.
+",5,5
+BasicML045,"A histogram is a graphical representation that organizes a group of 
+data points into user-specified ranges. Similar in appearance to a bar 
+graph, the histogram condenses a data series into an easily 
+interpreted visual by taking many data points and grouping them into 
+logical ranges or bins.",5,5
+BasicML045,"A histogram is a graphical representation that organizes a group of 
+data points into user-specified ranges. Similar in appearance to a bar 
+graph, the histogram condenses a data series into an easily 
+interpreted visual by taking many data points and grouping them into 
+logical ranges or bins",5,5
+BasicML045,A histogram is a graphical representation that organizes a group of data into user specified ranges. ,4,3
+BasicML045,A histogram is a graphical representation that organizes a group of data points into user-specified ranges.,4,3
+BasicML045,"A histogram is a graphical representation
+That organizes a group of data points into
+User-specified ranges",4,4
+BasicML045,A histogram is a graphical representation.Its appearance is similar to a bar graph.,2,2
+BasicML045,A histogram is basically used to represent data provided in a form of some groups.It is accurate method for the graphical representation of numerical data distribution.It is a type of bar plot where X-axis represents the bin ranges while Y-axis gives information about frequency.,5,5
+BasicML045,A histogram is basically used to represent data provided in a form of some groups.It is accurate method for the graphical representation of numerical data distribution.It is a type of bar plot where X-axis represents the bin ranges while Y-axis gives information about frequency.,5,5
+BasicML028,A numerical python contains a multidimensional  array object ,3,2
+BasicML008,A population is the entire group from which conclusions can be drawn. A sample is the specific group from which data can be collected. The size of the sample is less than or equal to the total size of the population.,5,5
+BasicML025,A procedure used for evaluate ML dataset,3,2
+BasicML028,"A Python Library that provides a multidimensional array object , various derived object .",3,2
+BasicML007,A set of instructions for a given problem,3,3
+BasicML007,A step by step procedure to solve a given problem,4,4
+BasicML019,A supervised learning is a learning by knowing everything about it and we will practise it time to time not only that is but also we have to improve day by day results,0,0
+BasicML001,A type of artificial intelligence that gives accurate outcome without programming,4,3
+BasicML047,A type of data that is used to lable variables without providing any quantitative value. ,3,3
+BasicML041,€(x^-x)^2/n,1,1
+BasicML017,Abnormal values in data,2,1
+BasicML017,Abnormal values in data. ,2,3
+BasicML033,Absolute error refers to the magnitude of difference between the prediction of an observation and the true value of that observation. MAE takes the average of absolute errors for a group of predictions and observations as a measurement of the magnitude of errors for the entire group.,5,5
+BasicML035,"Absolute error, square error, root of squared error",3,2
+BasicML042,Accuracy,1,1
+BasicML026,Accuracy = Number of correct predictions / Total number of predictions.,5,5
+BasicML026,Accuracy = Number of correct predictions -Total number of predictions,2,2
+BasicML026,Accuracy = Number of correct predictions Total number of predictions.,4,4
+BasicML026,Accuracy = Number of correct predictions Total number of predictions.,5,4
+BasicML042,Accuracy and precision,3,2
+BasicML042,Accuracy and precision ,2,2
+BasicML042,Accuracy and prediction,1,1
+BasicML026,Accuracy is an evalution metric employed for classfication models. It can be defined as the number of classfications a model correctly predicts divided by the total number of predictions made.,5,5
+BasicML026,Accuracy is an evalution metric for classfication models. It can be defined as the number of classfications a model correctly predicts divided by the total number of predictions made.,5,5
+BasicML026,"accuracy is defined as how far the machine is able to produce the desired outcome, the lesser the MAE, the better is the model.",5,5
+BasicML026,"Accuracy is one metric for evaluating classification models. Informally, accuracy is the fraction of predictions our model got right. ",5,5
+BasicML026,"Accuracy is that performance of a model ,how good does that work.",2,1
+BasicML026,Accuracy is the number of correct predictions made by the model by the total number of records.,4,4
+BasicML026,Accuracy is the Number of correct predictions Total number of predictions.,3,3
+BasicML026,Accuracy is the value of how much perfectly  dataset works,1,0
+BasicML026,Accuracy means how the actual value is related to predicted value,0,0
+BasicML043,"Accuracy, precision and sensitivity",0,0
+BasicML042,"Accuracy, Precision, Recall, F1 score, Log loss or Binary crossentropy, categorical crossentropy, AUC.",5,5
+BasicML042,"Accuracy, Recall, Precision, and F1- Score",4,4
+BasicML042,"Accuracy,precision,",2,2
+BasicML042,"Accuracy.
+Confusion Matrix.
+Precision, Recall, and F1 score.
+ROC AUC.
+Log-loss.",5,5
+BasicML003,Add all the values of a dataset and divide with the number of values,3,3
+BasicML023,"Advantages of numpy library are:
+It requires less memory
+Processing speed is high etc....
+
+",2,2
+BasicML007,Algorithm is a set of instructions that performs a specific task.,4,4
+BasicML007,Algorithm is a set of rules to perform a specific task.,4,4
+BasicML007,Algorithm is a step by step process .steps used to complete some task is called algorithm.,5,5
+BasicML007,Algothm is a logic of the problem,1,1
+BasicML015,"Alignment and indexing,Handling missing data,Cleaning up data,Input and output tools,Multiple file formats supported,Merging and joining of datasets",5,5
+BasicML007,"An algorithm is a set of instructions for solving a problem or
+accomplishing a task. One common example of an algorithm is a
+recipe
+",5,5
+BasicML007,An algorithm is a set of instructions for solving the programs.,5,5
+BasicML007,an algorithm is a step by step process which is used to do a particular task ina a specified manner or oerder,5,5
+BasicML017,An observation which is an abnormal behaviour,0,0
+BasicML017,An outlier is a thing which is a large distance when compared to other datasets,3,2
+BasicML017,An outlier is a value that lies an abnormal distance from other values in the dataset. These values are generally removed from the mass of the data.,5,5
+BasicML017,An outlier is a value that lies an far awy from other values in the dataset. These values are generally removed from the mass of the data. These values show impact on the calculation of central tendency . for eg. mean is effected by outliers.,5,5
+BasicML017,An outlier is an object that deviates significantly from the other objects,4,3
+BasicML017,An outlier is an observation that lies an abnormal distance from other values in the dataset. These values are generally removed from the mass of the data.,5,5
+BasicML017,an variable which is far away from specific variables then it is known as outlier,5,4
+BasicML030,"Analysing the data,and to identify the patterns, outliers within dataset using various graphs or plots",3,3
+BasicML018,Analysis refers to the critical process of performing initial investigations on data ,4,4
+BasicML018,Analyzing data and finding trends,2,2
+BasicML039,appearing the same thing more times,2,2
+BasicML043,"arange, array",2,1
+BasicML046,"As the name suggests ,the isnull() method
+Is used to check if the object is bull or not.
+That mean it has value under the column of our data set",5,5
+BasicML033,average difference between the actual data value and predicted value of model,5,4
+BasicML041,Average of squares of all errors that is difference between estimated value and actual error. ,5,5
+BasicML041,Average of the square value between original and predicted values.,4,4
+BasicML044,"Bar chart
+Pie chart
+Pareto chart",3,3
+BasicML037,"Bar Chart, Line Chart, Area chart, Histogram",5,5
+BasicML037,"Bar Chart, Line Chart, Area chart, Histogram",5,5
+BasicML037,"Bar Chart, Line Chart, Area chart, Histogram",5,5
+BasicML037,"Bar Chart, Line Chart, Area chart, Histogram, violin plot",5,5
+BasicML037,"Bar Chart,Pie Chart,Pareto Chart ",4,4
+BasicML044,"bar charts, histograms, pie charts, Frequency Distrubution  Tables",3,3
+BasicML037,"Bar chats,scatter plot.",3,2
+BasicML044,barchart piechart histogram,3,2
+BasicML037,"Barchart
+Pie chart",3,2
+BasicML044,"Barchart, violinplot ,histogram and heatmap",4,4
+BasicML037,"barchart,box plot ,histogram",5,4
+BasicML044,bargraph histograph,2,2
+BasicML016,Basically it is used for identifying others patterns in data,1,1
+BasicML020,"Binary classfication is the approach used when class count in the target column is two, otherwise multiclass classification approach is used",4,4
+BasicML020,"Binary classification - 2 classes, multiclass classification - greater than two classes",3,3
+BasicML020,Binary classification  are assigned exactly one of two classes whereas Multi-class classification is are assigned exactly one of more than two classes.,5,5
+BasicML020,Binary classification are those tasks where examples are assigned exactly one of two classes. Multi-class classification is those tasks where examples are assigned exactly one of more than two classes.,5,5
+BasicML020,"binary classification-- classifies the object to atmost two classes
+multiclass classification --- classifies the object at more than two classes",3,3
+BasicML020,"binary classification dividing into two classes,multi class classification is dividing into multi classes.",3,3
+BasicML020,"Binary classification is classification of two groups
+And multiclass classification is classification of more than two groups",4,4
+BasicML020,Binary Classification is the approach used when the dataset has two classes and multiclass classification is the approach used when the dataset has more than two classes.,5,5
+BasicML020,Binary classification used to categorise the observations and multi class is the problem of classifying instances into one of three or more classes,3,3
+BasicML020,"binary classification:one of two classes
+Multiclass classification:assigned exactly one of more than two classes.",5,5
+BasicML020,"binary- classifies into 2 classes
+multiclass-classifies into more than 2 classes",3,3
+BasicML011,Bivariate statistics compared two variables,1,0
+BasicML044,Box plot and dot plot are used for doing Univariate analysis on quantitative data,2,2
+BasicML034,Box plot give a good graphical image of the concentration of the data.,3,3
+BasicML034,Box plot is a method for graphically depicting groups of numerical data.,4,3
+BasicML034,Box Plot is a type of chart that depicts a group of numerical data through their quartiles. It is a simple way to visualize the shape of our data. It makes comparing characteristics of data between categories very easy. ,5,5
+BasicML034,Box plot is used to represent the data in graphical form. It divides the data into quartiles.,4,4
+BasicML037,"Box plot, Histogram, scatter plot etc. ",5,5
+BasicML037,"Box plot, histogram, scatterplot, violion plot.",4,4
+BasicML044,"Box plot, histogram,scatter plot, violin plot.",4,4
+BasicML044,"Box plot,Histograms,,scatter plot,Violion plot",5,5
+BasicML044,"Box plot,Histograms,,scatter plot,Violion plot .",5,5
+BasicML044,"Box plot,Histograms,Scatter plot,violion plot",4,4
+BasicML037,"Box plot,violion plot,scatter plot",4,4
+BasicML034,"Box plots (also called box-and-whisker plots or box-whisker plots) 
+give a good graphical image of the concentration of the data. They 
+also show how far the extreme values are from most of the data.",5,5
+BasicML034,"Box plots (also called box-and-whisker plots or box-whisker plots) 
+give a good graphical image of the concentration of the data. They 
+also show how far the extreme values are from most of the data.",5,5
+BasicML034,Box plots gives a good graphical image of the concentration of the data.,3,3
+BasicML037,"Boxplot , line plot",3,2
+BasicML044,"boxplot , scatter plot , histograms , violin plot",4,4
+BasicML034,"boxplot give a good graphical image.And also show how far the extreme values are from.
+",4,4
+BasicML034,Boxplot give good graphical image of concentration of the data. They also show how far the extreme values are from most of the data.,4,4
+BasicML034,Boxplot gives the good graphical to the concentration of the data. ,3,3
+BasicML034,Boxplot is a type of chart is used to visualise the data using quartiles ,4,4
+BasicML037,"boxplot
+scatterplot",3,2
+BasicML037,"Boxplot, Histogram and scatter plot",4,3
+BasicML023,"Broadcasting, fast processing speed, matrix operations, many methods, creation of n-dimensional arrays, slicing and indexing of arrays.",5,5
+BasicML013,By buit in function diag,0,0
+BasicML007,By giving previous data it give an exact outcome of what we needed.,0,0
+BasicML043,By important NumPy as np and then using arrange ,2,2
+BasicML023,By numpy we create n-dimensional array and  elements in array stored in contiguous memory ,2,2
+BasicML022,by training a model,0,0
+BasicML004,"By using ""head method"" we can see the top 5 records by default.by using tail method we can see last 5 records.",4,3
+BasicML004,By using .head(),5,4
+BasicML043,By using array(),1,0
+BasicML010,By using drop() method,3,3
+BasicML004,By using head function,4,4
+BasicML004,By using head() ,5,4
+BasicML004,By using head()method we can find 5 records of a DataFrame.By using pandas.DataFrame.head() can help to find the n number of records from top.,4,4
+BasicML003,by using mean() function ,4,3
+BasicML010,"by using pd.drop(""colu8mn namre"")",2,2
+BasicML013,By using read.csv() function,2,2
+BasicML016,By visualizing the data we can say correlation between two variables.,2,2
+BasicML023,Can deal with 3D multi dimensional arrays. It is faster than lists and we can deal faster calculations using NumPy library,3,2
+BasicML016,can find relation ship between two numeric terms,2,2
+BasicML024,"Classication is the process of categorizing a given set of data into classes. It can be performed on both structured or unstructured data. The process starts with predicting the class of given data points. The classes are often referred to as target, label or categories.
+",5,5
+BasicML024,"Classication is the process of categorizing a given set of data into two or more discrete classes. It can be performed on both structured or unstructured data. The process starts with predicting the class of given data points. The classes are often referred to as target, label or categories.
+
+",5,5
+BasicML024,"Classification comes under supervised machine learning. In classification problems, the computer program learns from the data given to it and make new observations or classifications.",5,5
+BasicML024,"Classification is a large domain in the field of statistics and machine learning. Generally, classification can be broken down into two areas: Binary classification, where we wish to group an outcome into one of two groups.",3,3
+BasicML024,Classification is a supervised learning approach in which the computer program learns from the data given to it and make new observations or classifications.,5,5
+BasicML024,Classification is a supervised learning approach in which the computer program learns from the data given to it and make new observations or classifications.,5,5
+BasicML024,Classification is division of data by its category,1,1
+BasicML024,Classification is meant by grouping data based on their properties or futures,0,0
+BasicML024,Classification is s alagorithm used to separate the spam mails ,1,1
+BasicML024,Classification is that we divide things based on some criteria.,1,1
+BasicML024,"Classification is a large domain in the field of statistics and machine learning. Generally, classification can be broken down into two areas: Binary classification, where we wish to group an outcome into one of two groups",3,3
+BasicML024,"Classification is a large domain in the field of statistics and machine learning. Generally, classification can be broken down into two areas: Binary classification, where we wish to group an outcome into one of two groups",3,3
+BasicML024,"Classification is a large domain in the field of statistics and machine learning. Generally, classification can be broken down into two areas: Binary classification, where we wish to group an outcome into one of two groups",3,3
+BasicML024,"Classification is a large domain in the field of statistics and machine learning. Generally, classification can be broken down into two areas: Binary classification, where we wish to group an outcome into one of two groups. It is uses labeled data.",5,4
+BasicML020,classification that are made from only two classes and classifications made from multi number of classes.,4,3
+BasicML014,"classifier, binary classification, feature",0,0
+BasicML020,"Classifying the examples which are assigned exactly one of two classes is called Binary Classification.
+Classifying the examples which are assigned exactly one of more than two classes is called Multiclass Classification.",5,5
+BasicML020,"Classifying the examples which were assigned one of two classes is called Binary Classification.
+Classifying the examples which were assigned exactly one of more than two classes is called Multiclass Classification.",5,5
+BasicML015,"Cleaning up data
+Handling missing data
+",2,2
+BasicML015,"cleaning up data, supports multiple file formats, merging and joining missing data.",3,3
+BasicML015,"Cleaning up data,Input and output tool,A lot of time series",2,1
+BasicML005,"Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education.",4,4
+BasicML005,Colab is a best platform to write anything .it is a free platform and we can write any matter and we can execute our code.for any some mini projects Colab is the best way to choose.it makes work complete In a easy way.,3,4
+BasicML038,"collecting data,data cleaning,analysing,getting conclusion",4,4
+BasicML009,"Collecting of data is exploratory
+Where as the processes of explaining the data is called explanatory",0,0
+BasicML018,"Collecting the data ,exploring and summarising the characteristics of the variables and make them visualize for better understanding and providing a conclusion for a dataset.",5,5
+BasicML006,Collection of data that tells about something,3,3
+BasicML038,"Collection of data
+Exploring of data
+Data cleaning
+Analyzing the data
+Representing the data",5,5
+BasicML038,"Collection of data, analysis, replacing null values, predict and evaluate",3,2
+BasicML009,"Coming to exploratory the word itself mean it,where we can explore and analyse the data.explanatory means which can be explained...",1,1
+BasicML042,Continous dataset,0,0
+BasicML029,Continuous data takes all values but discrete data takes some values,0,0
+BasicML043,"Conversion from other Python structures (i.e. lists and tuples)
+
+Intrinsic NumPy array creation functions (e.g. arange, ones, zeros, etc.)
+
+Replicating, joining, or mutating existing arrays
+
+Reading arrays from disk, either from standard or custom formats
+
+Creating arrays from raw bytes through the use of strings or buffers
+
+Use of special library functions (e.g., random)
+
+",5,5
+BasicML015,"Creating data frames, handling data",2,2
+BasicML025,Cross validation is a statistical method of evaluating and comparing learning algorithms by dividing data into segments,4,3
+BasicML025,"Cross Validation is a statistical method of evaluating and comparing learning algorithms by dividing data into two segments. One segment is used to learn or train a model and the other is used to validate the model.",5,5
+BasicML025,"Cross Validation is a statistical technique for evaluating and comparing learning algorithms by dividing data into two segments. One segment is used to learn or train a model and the other is used to validate the model.
+",5,5
+BasicML025,"Cross Validation is a statistical technique for evaluating the learning algorithms by dividing data into two or more segments. One segment is used to learn or train a model and the others are used to validate the model. if the number of segments are K in number then it is called as K-fold cross validation.
+",5,5
+BasicML025,Cross validation used to evaluate machine learning models on a limited data samples,3,2
+BasicML025,cross–validation is to test the ability of a machine learning model to predict new data,4,3
+BasicML025,"Cross-Validation is a method to evaluate algorithms in two stages.
+1.Train the model
+2.Validate the model",3,3
+BasicML025,Cross-Validation is a statistical method of evaluating and comparing learning algorithms by dividing data into two segments:,3,3
+BasicML025,Cross-Validation is a statistical method of evaluating and comparing learning algorithms by dividing data into two segments: one used to learn or train a model and the other used to validate the model.,5,5
+BasicML025,cross-validation is validating on different sets of data.,3,3
+BasicML025,Cross-Validation is a statistical method of evaluating and comparing learning algorithms by dividing data into two segments: one used to learn or train a model and the other used to validate the model.,5,5
+BasicML025,Cross-Validation is a statistical method of evaluating and comparing learning algorithms by dividing data into two segments: one used to learn or train a model and the other used to validate the model.,5,5
+BasicML025,Cross-Validation is a statistical method of evaluating and comparing learning algorithms by dividing data into two segments: one used to learn or train a model and the other used to validate the model.,5,5
+BasicML018,data analysing,1,0
+BasicML015,"Data handling ,data clean up,data ",2,1
+BasicML015,"Data handling,data cleaning etc",2,2
+BasicML015,"Data handling,data cleaning, handling missing data",3,3
+BasicML006,Data set contains a huge data where no. of rows and columns are present and we are able to analyse the data and come to an understanding.,4,5
+BasicML047,Data that can be divided into group which doesn't overlap with one other,3,3
+BasicML021,Data that can be measured with  numbers is known as quantitative data and non numerical  data that is categorial is known as quantitative data.,5,4
+BasicML030,Data visualisation provides data in graphs ,1,1
+BasicML030,Data visualization gaives us a clear idea of what the information means by giving it visual context through maps or graphs .,4,3
+BasicML030,Data visualization gives clear idea by  giving it visual context through maps or graphs.,3,2
+BasicML030,Data visualization gives clear information about the content using graphs and maps etc. This makes people to understand easily. ,4,4
+BasicML030,"Data visualization gives us a clear idea of the information through maps,plots and graphs. Helps to identify the patterns involved in our data.",4,4
+BasicML030,Data visualization gives us a clear idea of what the information means by giving it visual context through graphs,3,3
+BasicML030,Data visualization gives us a clear idea of what the information means by giving it visual context through maps or graphs. ,4,3
+BasicML030,"Data visualization gives us a clear idea of what the information
+means by giving it visual context through maps and graphs",5,4
+BasicML030,Data visualization gives us a clear idea of what the information means by giving it visual context through maps or graphs,4,3
+BasicML030,Data visualization gives us a clear idea of what the information means by giving it visual context through maps or graphs,4,3
+BasicML030,"Data visualization helps to tell stories by curating data into a form easier to understand, highlighting the trends and outliers.",2,2
+BasicML030,"Data visualization is the representation of data or information in a graph, chart, or other visual format. It communicates relationships of the data with images. This is important because it allows trends and patterns to be more easily seen.",5,5
+BasicML030,Data visualization is the way to represent the information in a better way with many graphical representations.,3,3
+BasicML030,"Data visualization is useful for data cleaning, exploring data structure, detecting outliers and unusual groups, identifying trends and clusters, spotting local patterns, evaluating modeling output, and presenting results. It is essential for exploratory data analysis and data mining to check data quality and to help analysts become familiar with the structure and features of the data before them.",5,5
+BasicML010,"Data.drop[""column name""]",5,5
+BasicML004,Data.head(),4,4
+BasicML003,Data[feature].mean(),4,4
+BasicML004,"Data_variable_name.head()
+Using head method",5,5
+BasicML013,Data=pd. read_csv('file name'),4,4
+BasicML004,Dataframe.head(),4,4
+BasicML004,Dataframe.head(5),4,3
+BasicML006,Dataset contains the required information about the data ,4,3
+BasicML006,"Dataset is a collection of data.the dataset list the variables ,such as weight and height of a object.",3,2
+BasicML006,Dataset is a file which provide information regarding something,3,2
+BasicML006,Dataset is a tabular form which contains rows and columns,3,3
+BasicML006,"Dataset is collection of data,which we use to perform some machine learning operations.",3,2
+BasicML010,"Dataset_name.drop(""column_name"", axis=1)",5,5
+BasicML014,Decision making and  random forest etc,1,1
+BasicML014,"Decision Tree
+Random Forest
+",2,2
+BasicML014,"decision tree, random forest..",2,2
+BasicML014,"Decision Tree, Support Vector Machines. ",2,2
+BasicML014,"Decision tree,random forest,linear regression,logistical regression",2,2
+BasicML014,"DecisionTreeRegressor, RandomForestRegressor",2,2
+BasicML038,"Define questions
+Clear measurements
+collect data
+analyze data
+interpret result",5,5
+BasicML038,"Define questions, set clear measurements, collecting data,analysing data,displaying result",4,4
+BasicML038,"define your questions
+set clear measurements priorities
+collect data
+analyze data
+interpret results.",5,5
+BasicML038,"Define your questions,
+Set clear measurements priorities,
+Collect data,
+Analyzedata,
+Interpret results",5,5
+BasicML038,"Define,set measurements,collect data,analyse data, interpret results",4,3
+BasicML019,Defined by its use of labeled datasets to train algorithm to classify data,3,3
+BasicML019,defined by its use of labeled datasets to train algorithm to classify data,3,3
+BasicML038,"defining the question, setting the proper measurements, collecting the data, analyzing the data, interpreting the result.",5,5
+BasicML029,"Descerte data is segregated type of data, we can perform count in the data.
+Continuous data is between two numbers or any data elements.",4,4
+BasicML010,Df._deltem_('coloum name'),1,1
+BasicML004,Df.head(),4,4
+BasicML033,Difference between the actual data value and the value perdicted,3,3
+BasicML029,"Discrete data includes only integers whereas continuous data includes any value(Height,Weight,...etc)",4,3
+BasicML029,"Discrete data is a data that can only take certain valeuesy, while data that can take any value is continuous data.",3,3
+BasicML029,Discrete data is data that can only take certain values while data that can take any value is called continuous data. ,3,3
+BasicML029,"Discrete data is data that can only take certain values, continuous data is data that 
+can take any value ",3,3
+BasicML029,"Discrete data is data that can only take certain values, while data that
+can take any value is continuous data",3,3
+BasicML029,"Discrete data is in the form of whole numbers, whereas continuous data occurs in the given interval constituting the number line.",4,4
+BasicML029,"Discrete data is information that can only take certain values whereas Continuous data is data that can take any value. Height, weight, and length are all examples of continuous data. Number of students in a class is an example for discrete data ",5,5
+BasicML029,"Discrete data is information that can only take certain values. ... Continuous data is data that can take any value. Height, weight, temperature and length are all examples of continuous data",5,5
+BasicML029,"Discrete data is information that can only take certain values. ... Continuous data is data that can take any value. Height, weight, temperature and length are all examples of continuous data",5,5
+BasicML029,"Discrete data is information that can only take certain values. ... Continuous data is data that can take any value. Height, weight, temperature and length are all examples of continuous data.",5,5
+BasicML029,"Discrete data is information that can only take certain values.Continuous data is data that can take any value. Height, weight, temperature and length are all examples of continuous data",5,5
+BasicML029,"Discrete data is the Data   which can we take data only on certain data for example (gender and rank etc..)
+Continuous data is the Data which can we take on any value with in specific range for example( numeric value)",5,5
+BasicML029,Discrete data is the data takes places at certain values and continuous is the data takes any value.,4,3
+BasicML029,discrete data means whole number such as speed and time and continuos data means non whole numbers such as height and weight.,4,3
+BasicML029,Discrete data take certain value and continuous data takes any value,4,3
+BasicML029,Discrete data takes few values and continuous data takes all the values,2,2
+BasicML029,Discrete data takes some values continues data takes all values ,3,3
+BasicML029,"Discrete data that can only take certain values.
+Continuous data can take any values.",3,3
+BasicML029,"Discrete data-takes only some values ,continuous data-takes continuous data",3,3
+BasicML029,Discrete is the values between certain values. Continuous data ,1,1
+BasicML029,Discrete used for only specific values where's Continuous used for all values,1,0
+BasicML024,Dividing data based on characterstics,1,1
+BasicML024,Dividing the objects into different classes if possible.,1,1
+BasicML024,Divisions of data by its properties ,1,1
+BasicML042,do not no madam,0,0
+BasicML044,Dot plot and line  plot ,2,2
+BasicML010,drop(),2,2
+BasicML010,dropna,0,0
+BasicML014,Dynamic algorithm ,0,0
+BasicML018,EDA is a process where one learns about the data,2,1
+BasicML018,EDA is used by data scientists to analyze and investigate data sets and summarize their main characteristics,5,5
+BasicML043,"either of the array(), arange() or linspace() numpy functions.",4,4
+BasicML017,errors,0,0
+BasicML025,Evaluate machine learning models on a limited data sample.,2,2
+BasicML025,Evaluation of the model by dividing the data into segments.,4,4
+BasicML018,explora a data,0,0
+BasicML009,"Exploratory analysis bis what u do to understand and get familiar with u r data and get information
+Explanatory anylysis is why u do once have found something Interesting and want to do more about it.",3,3
+BasicML009,"Exploratory analysis is done while searching for insights and used to find the answer to many questions. Explanatory analysis is performed to provide the accurate, insightful and visually appealing results to others.",5,5
+BasicML009,"Exploratory analysis is done while searching for insights and used to find the answer to many questions. The plots of exploratory analysis need not be visually appealing. Explanatory analysis is performed to provide the accurate, insightful and visually appealing results to others.",5,5
+BasicML009,"Exploratory analysis is the way of learning from various datasets.
+Explanatory analysis is explaining the datasets ",5,5
+BasicML009,Exploratory analysis is used to understand the data and cleaning the data and knowing the relationship between variables.it is user analysis.when it comes to explanatory analysis we have to explain the data we understand to the people.,5,5
+BasicML009,Exploratory analysis is used to visualise the data or to explore it whereas the explonatory is used when we find the data is interesting,0,0
+BasicML009,Exploratory Analysis is what is to be done with data. Explanatory analysis is something like telling a story from the data,2,3
+BasicML018,Exploratory analysis is what you do to understand and get familiar with your data and generate information,3,3
+BasicML018,"exploratory analysis is what you do to understand and get familiar with your data and
+generate information.",4,4
+BasicML009,"exploratory analysis means to explore it which means data sourcing,datcleaningetc..,explanatory means which is used to explain like excplaining for a group of persons by using visualisation charts such as pie chart ,histogram,barchaertetc..,",2,3
+BasicML009,"Exploratory anaylysis is performed the ML Engineer to understand the data, whereas explanatory anlysis is performed to present insights of the data to the outside world in a more understandable manner.",5,5
+BasicML018,"Exploratory Data Analysis  is an approach to analyze the data using 
+visual techniques. It is used to discov er trends,patterns, or ti check assumptions with the help of statistical summary 
+and graphical representations.",5,5
+BasicML018,"Exploratory Data Analysis (EDA) is used to analyze, investigate and summarize main characteristics of the dataset by employing data visualizaton methods. ",5,5
+BasicML018,"Exploratory Data Analysis (EDA) is used to analyze, investigate and summarize main characteristics of the dataset by employing data visualizaton methods. It is used to discover the trends, patterns, or to check assumptions in the data.",5,5
+BasicML018,exploratory data analysis analyse the data  from various techniques,2,2
+BasicML018,Exploratory data analysis is a process where one learns about the data,3,3
+BasicML018,Exploratory data analysis is learning from a dataset.,2,1
+BasicML018,Exploratory data analysis is what we are find interesting and to do more about that one and gives efficient output,3,3
+BasicML018,"Exploratory Data Analysis means analyzing the data and understanding.
+",4,3
+BasicML009,"Exploratory is the thing which we do to test the data,make works on the dataset which we have and we can use isnull() method and many more to help the data",2,2
+BasicML009,Exploratory means understanding the data whereas explanatory means conveying the the data in  detail to other.,4,4
+BasicML009,"Exploratory: analysis is what you do to understand and get familiar with your data and
+ generate information.
+Explanatory: analysis is what you do once you have found something interesting and want to
+ know more about it.",5,5
+BasicML009,"Exploratory-exploring data to understand it
+Explanatory-to do analysis on data after knowing it",3,4
+BasicML038,Extract clean explore analysis share,3,3
+BasicML032,Extract unique values,4,3
+BasicML038,"Extract,Clean,Analyze,Export,Share",4,4
+BasicML042,F1 score,1,1
+BasicML003,"feature. mean()
+",3,3
+BasicML015,"Features of pandas are data clean up ,joining and merging datasets",2,2
+BasicML004,Filename.head(),3,4
+BasicML043,first importing the numpy library ad np after that using function np.arange( ) it will print  our one dimensional array.,3,3
+BasicML008,for example if we t6ake the countrys poopulaton as a data set for persons who have home or not in a country if we tak ethe total indias popuylation to test and analyse througjh data visualisation it is called populartion if we take some persons from each state ranomnly then the pesons who are take is known as sample.i think this helps you understand the differeence betweeen thwe population and sample ,3,3
+BasicML049,For splitting data/array into two or more,3,3
+BasicML044,For the univariate analysis we can use histogram scatter plot and box plot and villion plot,4,4
+BasicML022,"For this calculation of precision, you need to determine how close each value is to the mean. subtract the mean from each number. ",0,0
+BasicML005,Free source for programming,1,0
+BasicML044,"Frequency distribution tables,
+Bar charts,
+Histograms,
+Pie charts.",4,3
+BasicML044,"Frequency distribution tables.
+Bar charts.
+Histograms.
+Pie charts.",3,3
+BasicML044,"Frequency distribution tables.
+Bar charts.
+Histograms.
+Pie charts.",4,3
+BasicML003,"Generally mean is calculated by ""sum of observations"" / no.of observations.",3,3
+BasicML018,get more familiar data and to generate information ,1,1
+BasicML034,Gives a good graphical image of the data,2,1
+BasicML030,Gives clear understanding of the data through plots and graphs.,3,3
+BasicML030,Gives information in map or graphs.This helps the data to look more natural,3,3
+BasicML030,Gives is clear idea of what information means by giving it visualise the data,3,2
+BasicML034,gives the good graphical image of the concentration of the data.,3,3
+BasicML045,Gives the relation between two axis .,0,0
+BasicML046,Good data visualisation there should be made that but the values in the data set should not be zero if most of the date value in a data set zeros then then it does not give good correlation so we have to remove all the values whose value 0 to remove all this have to identify the columns having most number of zeros and by using is null method we have to remove the zeros it is called it with the given data then the null values are replaced by the most frequently used values or appeared values,0,0
+BasicML005,google colab is a very best platform i have ever known .it is used to explain how to use programming to solve a real world problem it avts as kernel so that we can code in different cells but it works as a single code by diiferntiating them with cells we can let the visitors know the step by step code of the program and also we can explain them the code by using text i.e it alows to write the text in between the cells to explain the code how to write and why to write and what to write it allows you to differentiate the text also by using the markdowns which the text to make it like a heading or sub-headibng .the main advantage of this is we can edit thee text and code any time in thebook create by us in the colab anytime and anywhwere by using of your concerened gmail,4,3
+BasicML034,graphical representation numerical data using quartiles for variability.,4,3
+BasicML045,Graphical representation of group of datapoints it is done by collecting many data points and arranging them in ranges.,4,4
+BasicML015,"Great Data Handling, Handling of missing data , Data clean up, joining and merging datasets",3,3
+BasicML015,"Great data handling, handling of missing data and merging data sets",2,2
+BasicML015,"great data handling,handling of missing data and merging data sets",3,3
+BasicML015,"Great data handling,Handling of missing data,Data clean-up,Joining
+and Merging Datasets.",5,5
+BasicML024,grouping of data from a sample.,0,0
+BasicML015,handling  missing data,1,1
+BasicML015,"Handling missing data
+Cleaning up data
+Indexing",3,3
+BasicML015,"Handling missing data
+Great data handling
+Joining and mergeing datasets",3,3
+BasicML015,Handling of datas that means for data manipulation,1,1
+BasicML015,"Handling of missing data
+Merging datasets
+Data clean up
+Joining datasets",4,4
+BasicML032,handling of missing data.,0,0
+BasicML015,"Handling the data,merging the data set handling the missing value etc ",3,2
+BasicML031,heat map shows the behaviour of the user on specific webpages.,2,2
+BasicML031,Heat Maps are graphical representations of data that utilize color-coded systems. The primary purpose of Heat Maps is to better visualize the volume of locations or events within a dataset and assist in directing viewers towards areas on data visulaizations that matter most.,5,5
+BasicML031,Heat Maps are graphical representations of data that utilize color-coded systems. The primary purpose of Heat Maps is to better visualize the volume of locations or events within a dataset and assist in directing viewers towards areas on data visulaizations that matter most.,5,5
+BasicML031,Heat maps are used in various forms .but mostly used to show user behavior on specific web pages templates.,3,3
+BasicML031,Heatmaps are used in various forms of analysis and are most commonly used to show user behaviour. These can be used to show where users have clicked on page and how far they scrolled down a page.,4,4
+BasicML031,Heatmaps are used in various forms of analytcis but are most commonly used to show user behaviour on specific webpages or webpage templates.,4,4
+BasicML031,Heatmaps are used in various forms of analytical but are mostly used to show user behaviour. ,3,3
+BasicML031,"Heatmaps are used in various forms of analytics but are most 
+commonly used to show user behavior on specific webpages or 
+webpage templates",4,4
+BasicML031,"Heatmaps are used in various forms of analytics but are most 
+commonly used to show user behavior on specific webpages or 
+webpage templates. Heatmaps can be used to show where users 
+have clicked on a page, how far they have scrolled down a page or 
+used to display the results of eye-tracking tests.",5,5
+BasicML031,"Heatmaps are used in various forms of analytics but are most 
+commonly used to show user behavior on specific webpages or 
+webpage templates. Heatmaps can be used to show where users 
+have clicked on a page, how far they have scrolled down a page or 
+used to display the results of eye-tracking tests.",5,5
+BasicML031,"Heatmaps are used in various forms of analytics but are most
+commonly used to show user behavior on specific webpages.",3,3
+BasicML031,Heatmaps are used to show user behavior on specific web pages,2,2
+BasicML031,Heatmaps are used to show user behaviour on webtemplates or on webpages by saying how far the user scrolled or where the user clicked like that.,3,3
+BasicML031,"Heatmaps can be used to show where users have clicked on page, how far they have scrolled down a page or used to display the results of eye tracking tests",4,3
+BasicML031,"Heatmaps can be used to show where users
+have clicked on a page, how far they have scrolled down a page",3,2
+BasicML031,"Heatmaps visualise data through variations in colouring. When applied to a tabular format, Heatmaps are useful for cross-examining multivariate data, through placing variables in the rows and columns and colouring the cells within the table. Heatmaps are good for showing variance across multiple variables, revealing any patterns, displaying whether any variables are similar to each other, and for detecting if any correlations exist in-between them.",5,5
+BasicML031,Heats maps are used to represent the dataset  using colours ,2,2
+BasicML039,high frequency or appears more frequently is called mode,4,4
+BasicML045,histogram is a graphical representation that organizes a group of data points into user-specified ranges.,4,4
+BasicML045,"histogram is a graphical representation that organizes a group of data points into user-specified ranges. Similar in appearance to a bar graph, the histogram condenses a data series into an easily interpreted visual by taking many data points and grouping them into logical ranges or bins.",5,5
+BasicML045,Histogram is a graphical representation that specifies an information as data into some specific ranges. Histogram looks like a bar graph. In other words histogram is similar to the bar graph.,4,4
+BasicML045,"Histogram is represent specified data in the form of graphs so that we can visualize the data in a easy manner. It can be used for doing Univariate analysis on 
+quantitative data",3,2
+BasicML045,Histogram is the graphical representation of data where data is grouped into continuous number ranges and each range corresponds to a vertical bar.,5,5
+BasicML045,histogram is used to compare two variables at a time accurately for a datum in a data,0,0
+BasicML045,Histogram is used to dispay the count(analytics) of data. It is similar to bar chart.,3,3
+BasicML045,Histogram is used to represent the data in graphical form. It takes two variables on x-plane and y-plane. The basic difference between histogram and barchart is that there will be no gap between bars in histogram but there will be gap between every two bars in bar chart.,5,5
+BasicML045,histogram is used to show the data into frequency of distributions,4,4
+BasicML045,Histogram it look similar to bar graph and it it is used to condense the given data into  graphic using statistics,4,4
+BasicML045,Histogram provides the  organised data from the user specified range,2,2
+BasicML037,"Histogram, scatter plot etc",3,2
+BasicML044,"Histogram,bar graph,IQR",3,3
+BasicML044,"Histogram,scatterplot",2,2
+BasicML044,"Histograms, linear plots, bar graphs",3,3
+BasicML037,"Histograms,bar graphs",3,3
+BasicML037,"Histograms,scatter plot,box plot,violion plot",5,5
+BasicML037,"histograms,scatterplot",3,3
+BasicML037,"Histograms,Scatterplot,Boxplot",5,4
+BasicML044,"histplot,barpklot etc..,",1,1
+BasicML002,I like kaggle because it provide free courses to learn and to acquire skills and also we can get a certificate after completing the course which was very encouraging and also it will provide competitions to participate (till not participate) and it will provide datasets so we can download and can check the requirements which we want,3,2
+BasicML002,"I like kaggle. It offering so many course and data set , compitition etc without the any fee. ",5,5
+BasicML027,"If a machine learns in a random manner , it is called Unsupervised Learning.",1,1
+BasicML020,If the class count is two then binary classfication and if the class count is more than two then the classification is multiclass,4,3
+BasicML047,If the given data is named then it is known as nominal data. This data can be divided intlo various groups.this data is not measured. There are no common elements,4,4
+BasicML008,If the whole data is taken for analysing then it is population.if a part of the data is taken for analysis then it is called sample.,5,5
+BasicML022,"If you want to tell which set of data is more precise, find the range (the difference between the highest and lowest scores)",0,0
+BasicML043,"Import bumpy as np
+X=no.arange(3,10,2)
+Print(x)",4,3
+BasicML043,"import numpy 
+l=np.array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])
+print(l)",4,4
+BasicML043,"import numpy as np
+a=np.array([1,2,3])
+print(a)",4,3
+BasicML043,"Import numpy as np
+np.array()",2,2
+BasicML043,"import numpy
+take a list of numbers
+array = numpy.array(list)
+List of numbers can be  like [1,2,3]",4,4
+BasicML043,"Import numpy
+Take a list of numbers
+List=[1,2,3,4]
+Arr=numpy.array(List)",5,5
+BasicML013,Import pandas ,0,0
+BasicML013,"import pandas as pd
+Pd. read_csv(""filene. csv"")",5,5
+BasicML013,"Import pandas as pd
+Pd.read CSV(file name.csv)",4,4
+BasicML013,"Import pandas as pd
+Pd.read_csv(""filename.csv"")",5,5
+BasicML013,"import pandas as pd
+pd.read_csv(""filename.csv"")",5,5
+BasicML013,"import pandas as pd
+pd.read_csv(""filename.csv"")",5,5
+BasicML013,"import pandas
+pandas.read_csv(""filename.csv"")",5,5
+BasicML013,"Import pandas
+pd.read_csv(""filename.csv"")",5,5
+BasicML030,"Importance of data visualization are:
+It helps us to understand data easily
+It gives visual representation of data by using plots
+By using this we can tell a story on our own",5,5
+BasicML043,"Importing the module 
+Creating the list 
+Creating 1D array",2,1
+BasicML043,"importing the module
+creating the list 
+creating 1-d array 
+",1,1
+BasicML020,In binary classification examples will have two classes whereas in multiclass classification examples have more than two classes,5,5
+BasicML020,In binary classification we have only two classes but in multiclass classification we have more than two classes. ,4,4
+BasicML005,"In colab we write both code and text 
+We easily share colab notebooks
+We easily through these notebooks to GitHub
+It's is very usefull to python programers.",5,5
+BasicML017,In observation that lies an abnormal distance from the other value in a random sample from a population ,5,5
+BasicML025,In simpler terms check-ing trained model with validation dataset to check whether the output is valid or not,3,2
+BasicML019,"In type of machine learning,we train the machine with the data along with LABELS.",2,2
+BasicML027,In unsupervised learning with must look for patterns in a dataset with no labels.,3,2
+BasicML015,Indexing and handling of missing data,2,2
+BasicML006,Information of a topic represented in table in rows and columns,1,1
+BasicML005,Is an website it helps us a lot,0,1
+BasicML047,"Is is derived from quantitative data,it is untangable (can't touch) 
+For ex: sad, happy etc",0,0
+BasicML046,is null method is used to know whether the element in the cell has a value or a null value. it will rep[resent null and non-null by using boolean values if it is a null value it will give true otherwise it will give false,5,5
+BasicML046,isnull function detect missing values in the given series object. Missing values gets mapped to True and non-missing values gets mapped to False,5,5
+BasicML046,Isnull return whether there are any null values present in data,4,4
+BasicML046,isnull( ) returns all the null values (missing values).,2,2
+BasicML046,"isnull() function detect missing values in the given series object. It 
+return a boolean same-sized object indicating if the values are NA. 
+Missing values gets mapped to True and non-missing value gets 
+mapped to False",5,5
+BasicML046,"isnull() function detect missing values in the given series object. It 
+return a boolean same-sized object indicating if the values are NA. 
+Missing values gets mapped to True and non-missing value gets 
+mapped to False.",5,5
+BasicML046,"isnull() function detect missing values in the given series object. It 
+return a boolean same-sized object indicating if the values are NA. 
+Missing values gets mapped to True and non-missing value gets 
+mapped to False.",5,5
+BasicML046,isnull() function detect missing values in the given series object. It return a boolean same-sized object indicating if the values are NA. Missing values gets mapped to True and non-missing value gets mapped to False,5,5
+BasicML046,"isnull() function detect missing values in the given series object.Missing values gets mapped to True and non-missing value gets 
+mapped to False.",5,5
+BasicML046,isnull() is used to find the null values in a given dataframe and the syntax will be dataframe.isnull().,5,5
+BasicML046,isnull() method is used to check and manage NULL values in a dataframe.,5,5
+BasicML046,isnull() method is used to check and manage NULL values in a dataframe.,5,5
+BasicML046,isnull() method is used to find and identify the missing values in the given object,5,5
+BasicML046,isnull() method is used to return the null values present in the data set,5,5
+BasicML030,It  gives us a clear idea of what the information means by giving it visual context through maps or graphs,3,3
+BasicML016,It can be used to show relationship between two variables,2,2
+BasicML023,It can be utilised to perform a number of mathematical operations on arrays,2,1
+BasicML026,It defined as the ratio of number of correct predictions to the total number of pridiction,4,4
+BasicML046,It detects the missing values in the given series,3,3
+BasicML025,It divide  data variables into two segments,2,2
+BasicML034,It gives a graphical image of concentration of the data,3,3
+BasicML030,It gives clear idea on informations through graph or maps ,3,2
+BasicML034,It gives good graphical image of data.,1,0
+BasicML016,It gives the correlation,2,1
+BasicML033,It gives the difference between the actual value  and predicted value,3,3
+BasicML032,it gives the unique values present in the dataset,4,4
+BasicML032,it gives unique value from the given dataset,3,2
+BasicML034,It gives us good graphical image,1,0
+BasicML027,It has output with clustering and patterns from the features input,2,1
+BasicML039,It has the highest frequency or high peak value or which appears more frequently.,4,4
+BasicML032,It identify the unique values,2,2
+BasicML045,It is  one of the graphical representation of  numerical data,1,1
+BasicML001,It is a branch of artificial intelligence and computer science,2,1
+BasicML049,it is a function which splits data arrays into two subsets for training data and for testing data.,5,5
+BasicML045,It is a graphical representation,1,1
+BasicML027,It is a kind of machine learning model must look for patterns in data set with no lables and with minimum human supervision. ,4,4
+BasicML027,It is a kind of machine learning.modal look for patterns in a dataset with no labels and minimal human supervision.,4,3
+BasicML047,It is a labeled data that is divided into groups and data is assigned to multiple groups and these groups have no common elements,4,3
+BasicML047,It is a labeled or named data which can be divided into various groups.,3,2
+BasicML047,"It is a labelled data which can be divided into various groups that do not overlap. Data is not evaluated here, it is just assigned to multiple groups and these groups are unique and have no common elements",4,4
+BasicML028,It is a library that has a multidimensional array object ,2,2
+BasicML025,It is a method of comparative learning and is is easy to evaluate.,2,2
+BasicML049,"It is a method used for performing machine learning algorithm. It is used in classification or regression problems. It can be also used for supevised learning algorithms. It takes data and split data into two sunsets, train and test",5,5
+BasicML046,It is a method which is used  to find missing values in given series object.,5,5
+BasicML001,"It is a part of A.I, it uses the historical data to predict the out put",4,3
+BasicML001,It is a part of AI .which learn the things datasets provided and gave a predicted outcome .,2,3
+BasicML001,"It is a part of al. It contains of data , algorithm and prediction. ",1,2
+BasicML028,"It is a Python library that provides a multidimensional array object, 
+various derived objects",3,3
+BasicML028,"It is a Python library that provides a multidimensional array object, 
+various derived objects.",3,3
+BasicML028,"It is a python Library that provides a multidimensional array object, various derived objects",3,2
+BasicML028,"It is a Python library that provides a multidimensional array object,
+various derived objects ",3,3
+BasicML028,It is a python library that provides a multidimensional array object.,3,3
+BasicML016,It is a set of points that represents the values of two different variables plotted on horizantal and vertical axes,1,1
+BasicML024,It is a supervised learning approach in which machine learns from labeled data,4,3
+BasicML001,It is a supervised learning which we'll train a machine to get learned.,2,1
+BasicML019,It is a type of machine learning in which machines are trained using well labelled training data,4,4
+BasicML019,It is a type of machine learning it learns from labels,1,1
+BasicML026,It is a value that gives the measure of correct predictions by a machine rationed to the total predictions.,5,5
+BasicML049,"It is about taking  a data , training and testing the data for machine learning algorithm.",0,0
+BasicML047,It is also called as labled or named data in which data can be divided into groups and data is not measured or evaluated.,4,4
+BasicML034,It is also called box and whisker plots or box whisker plots gives a good graphical image of the concentration of the data,4,3
+BasicML034,It is also called box and whisker plots.they give good graphical image of the concentration of the data.like we use histogram,4,4
+BasicML034,It is also called box whisker plot.it helps us  to approach  good graphical representation,3,2
+BasicML018,It is an approach to analyze the data using visual techniques,3,3
+BasicML018,it is an approach to analyze the data using visual techniques,3,3
+BasicML041,It is an estimator measure the average of error squares and average squared difference between the estimate values and true values,5,5
+BasicML017,It is an observation that lies an abnormal distance from other values,3,3
+BasicML017,It is an observation that lies an abnormal distance from other values in a random sample from a population,5,5
+BasicML017,It is an observation that lies an abnormal distance from other values in a random sample from a population.,5,5
+BasicML017,"It is an observation that lies an abnormal distance from other values in a random sample
+From population",5,5
+BasicML017,It is an observation that lies outside overall pattern distribution,3,3
+BasicML031,It is data visualization  method .by using this method  we can differentiate based on the colors intensity (hue),4,4
+BasicML049,It is function in sklearn model used to shuffle and splitting data arrays.,3,3
+BasicML045,It is just like bar graph but difference is histogram is value vs value graph whereas bar graph is value vs string graph.,2,2
+BasicML047,It is labelled or named data which can be divided into various groups that do not overlap.In this case data is not measured or evaluated.,4,4
+BasicML028,It is library in Python with it we can work on arrays,3,2
+BasicML005,"It is made such a way that both code and text can be written,it provides us GPU while working with large data(in ML)",3,3
+BasicML033,It is one of the eavaluation metrices for regression problems. It is the measure of errors.,3,3
+BasicML028,"It is python library which provide multidimensional array object, various derived objects. ",3,3
+BasicML045,It is same as bar graphs in appearance.It is a group of data points into user specified ranges.We can observe the data very easily which is provided in a Histogram.,5,5
+BasicML033,It is the average of all absolute error (amount of errors in our measurement).that means the actual data value and the value predicted by the model ,5,5
+BasicML041,"It is the average of squares of difference between original values and predicted values. MSE is implemented using sklearn. From sklearn. metrics important mean_squared_error(y_true, y_pred) ",5,5
+BasicML041,It is the average squared difference between estimated values and true values.,4,4
+BasicML041,It is the average squared difference of estimated value and true value.,4,4
+BasicML033,It is the difference between actual data and predicted data,3,3
+BasicML033,It is the difference between actual data and value predicted ,2,2
+BasicML041,It is the mean/average of squared errors.,4,4
+BasicML024,It is the possible types the data can be segregated into.,1,1
+BasicML019,It is type of ml in which datasets are labelled.,2,2
+BasicML015,It is use to show relationship between two variables,0,0
+BasicML016,It is use to show relationship between two variables,2,2
+BasicML031,It is used in webpages l. It used in data visualization.,1,1
+BasicML023,"It is used to access arrays.
+It helps to work with matrices, linear algebra.
+Numpy arrays use less memory.
+",3,3
+BasicML018,It is used to analyze data sets and to summarize the characteristics of it,3,3
+BasicML034,It is used to describe the data,3,2
+BasicML046,"It is used to detect any missing values in the dataset. It returns Boolean values. If the values of the dataset are like NA i.e., missing, it returns True. Otherwise it returns False.",5,5
+BasicML046,It is used to detect the missing values in the given object.,4,4
+BasicML025,It is used to evaluate machine learning models on limited data,4,3
+BasicML032,It is used to extract the unique values.,3,3
+BasicML032,It is used to extract unique values from the columns ,3,3
+BasicML046,It is used to find missing values in a given obsject and it gives the output in NA form,4,4
+BasicML032,it is used to get unique values in a dataset in a column,3,2
+BasicML039,It is used to know the most frequently repeated values in the data.,1,1
+BasicML032,It is used to know the unique values of various columns in the data,3,3
+BasicML031,It is used to show user behaviour on particular webpages or webpage templates,2,2
+BasicML049,it is used to split the data in the datset by a specific classification accord to ouyr needs and giving it in an algorithm to train a machine,4,4
+BasicML049,It is used to splitting data arrays.,2,2
+BasicML018,It is what you do to understand and get familiar with your data and generate information,3,2
+BasicML025,"It is a statistical method of evaluating and comparing learning algorithms by dividing data into two segments:
+ one used to learn or train a model and the other used to validate the mode",5,4
+BasicML030,"It makes understanding of a data easy.
+Also analysing data is more easy.",3,3
+BasicML005,"It offers GPU, comes with all libraries of python. ",1,1
+BasicML019,it predicts accurately,0,0
+BasicML005,It provides chance to change our source code ,0,1
+BasicML005,"It provides noteboook to write
+It directly upload the data into GitHub
+We can import data sets in it",3,3
+BasicML005,"It provides the coding environment , where we can text and also code . It can also backup the code file to google drive or gith hub",2,3
+BasicML031,it show behavior on webpages like where we clicked on a webpage etc..,2,2
+BasicML046,It shows entire columns with null values,1,1
+BasicML023,It takes less memory space and provides better runtime speed.,2,2
+BasicML033,it tells us about the average difference of actual data.,3,3
+BasicML033,It tells us that the average difference between the actual data value and the value predicted by model is 2.428,3,3
+BasicML041,It Tells you how close a regression line is to set of points,3,3
+BasicML023,"It uses less memory 
+It used for mathematical calculations",2,2
+BasicML027,It uses ML algorithms to analyze unlabeled datasets.,2,2
+BasicML007,It's a structure of code which is written in simple and understandable way independent of programming languages.,4,4
+BasicML026,It's about how exactly the model works,3,3
+BasicML031,It's describe the data that uses the colour,2,1
+BasicML028,It's is a python Library that provides a multidimensional array object and derived objects,3,3
+BasicML019,its use of labeled datasets to train algorithms that to classify data or predict outcomes accurately,5,5
+BasicML015,"joining and merging of data, great data handling",2,2
+BasicML047,Labelled data that can be converted into groups.,2,2
+BasicML024,learning from labeled data,3,2
+BasicML017,lies an abnormal distance from other values in a random sample from a population of an outlier,5,5
+BasicML037,"line plot , strip plot.",3,2
+BasicML037,"Line plot,swarm plot",2,2
+BasicML014,"Logistic Regression
+",1,1
+BasicML014,"Logistic regression
+Naive Bayes
+Decision tree",3,3
+BasicML014,"logistic regression, naive Bayes",2,2
+BasicML014,"Logistic Regression, Naive Bayes, Decision Tree, Random Forest, LBGM, XGB, Support Vector Machines, K-Nearest Neighbors.",5,5
+BasicML014,"Logistic Regression, Naive Bayes, K-Nearest Neighbors",3,3
+BasicML014,"Logistic Regression, Naive Bayes, K-Nearest Neighbors, Decision Tree, Support Vector Machines.",5,5
+BasicML014,"Logistic regression, Native bayes, K nearest neighbors, Decision tree, Support vector machine",5,5
+BasicML014,"Logistic Regression.
+Naïve Bayes.
+Stochastic Gradient Descent.",2,2
+BasicML014,Logistics regression naive Bayes. Stochastic gradient desent k-nearest neighbors discussion tree,4,4
+BasicML001,"Machine learning and artificial intelligence are different .by using ML artificial intelligence is processing.ML means training the machines by giving data.machine learning is divided into 4 steps
+1.input 2.training 3.prediction 4. Evaluation",3,2
+BasicML001,Machine learning is a method of data analysis that automates analytical model building,2,1
+BasicML001,"Machine Learning is an Application of Artificial Intelligence (AI) it
+gives devices the ability to learn from their experiences and improve
+their self without doing any coding.",4,4
+BasicML001,Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed,5,5
+BasicML001,Machine learning is an application of artificial that uses algorithm to produce models,1,1
+BasicML001,Machine learning is the process of analysing the data and building a model.A given to the machine and it is trained and we can build a model.,4,4
+BasicML001,machine learning is the process to make machine to learn itself.,4,4
+BasicML035,MAE,1,1
+BasicML033,MAE is the difference between the actual value and predicted value,3,3
+BasicML033,MAE tells us the average difference between the actual data value and the value predicted by the model is 2.42,2,2
+BasicML040,Matplotlib is used to adjust the size of the figure so seaborn need matplotlib,3,3
+BasicML003,Mean = Sum of values/total no.of values,3,3
+BasicML033,Mean Absolute Error calculates the average difference between the calculated values and actual values. It is used as evaluation metrics for regression models in machine learning.,5,5
+BasicML033,Mean Absolute Error is a measure of errors between the observations.,3,2
+BasicML033,Mean absolute error is used to tell the average difference between the actual data value and predicted value. ,5,5
+BasicML035,"Mean absolute error
+Mean squarred error",3,3
+BasicML035,"Mean Absolute Error, Mean Squared Error etc",3,4
+BasicML035,"mean absolute error,mean squared error,root mean squared error",5,5
+BasicML035,"Mean absolute error.
+Mean square error.
+Root Mean square error.
+",5,5
+BasicML003,mean is like avearage,1,0
+BasicML003,Mean is sum of observations divide with total number of observations,3,3
+BasicML003,mean is the sum of all the elements in the data divided by total number of elements,3,3
+BasicML035,"Mean square error 
+Mean Absolute Error",3,3
+BasicML035,"Mean square error , mean absolute error",3,3
+BasicML035,"mean square error , mean absolute error",3,3
+BasicML035,"Mean square error
+Mean absolute error
+adjust R square",5,5
+BasicML042,"Mean square error
+Root. Mean square error
+Mean absolute error",0,0
+BasicML041,Mean squared error (MSE) measures the average squared difference between the estimated values and the actual value.,4,4
+BasicML041,mean squared error means difference between the excepted output to the actual output,3,3
+BasicML041,Mean squared error measures the average of error squares.,3,2
+BasicML035,"Mean Squred Error (MSE), Root Mean Squared Error (RMSE), Mean Absolute Error(MAE).",5,5
+BasicML035,"Mean Squred Error (MSE), Root Mean Squared Error (RMSE), Mean Absolute Error(MAE).",5,5
+BasicML035,"Mean Squred Error, Root Mean Squared Error , Mean Absolute Error",5,5
+BasicML003,mean(),2,2
+BasicML003,Mean=sum of terms/number of terms,3,3
+BasicML015,"Merging and joining of datasets, Cleaning up data, Handling missing data etc..",3,3
+BasicML025,Method used to compare algorithms.,0,0
+BasicML001,Ml is an application of artificial intelligence .that provides a ability to learn automatically by experience.,4,4
+BasicML001,Ml is used for training a machine with sample input and out put,2,2
+BasicML039,mode is a value which has highest frequency in given observations.,5,5
+BasicML039,Mode is defined as the value that appears more frequently ,4,4
+BasicML027,model look for patterns in a dataset,1,1
+BasicML039,most frequently occured value in a dataset,3,3
+BasicML039,Most frequently occurring value,3,3
+BasicML039,most repeated elements declared as mode,4,4
+BasicML041,"MSE = mean squared error 
+It is squared difference between actual value and mean value/total no.of values",5,5
+BasicML041,MSE is defined as Mean or Average of the square of the difference between actual and estimated values.,5,5
+BasicML041,MSE measures the average of error squares.The average squared difference between the estimated values and true value.,5,5
+BasicML035,"MSE, MAE, RMSE",5,5
+BasicML035,"MSE, RMSE ",3,3
+BasicML035,"MSE,RMSE,MAE",5,5
+BasicML023,"multidimensional,less data 
+",2,1
+BasicML014,"Naïve Bayes,Random Forest",2,2
+BasicML014,"Naive Bayes
+Random forest
+Decision tree
+Logistic regression",4,4
+BasicML014,"Naive Bayes, K-Nearest Neighbors, Decision Tree, Support Vector Machines. ",4,4
+BasicML047,Named data which can divide into various groups that do not overlap,3,3
+BasicML014,NaN,0,0
+BasicML020,NaN,0,0
+BasicML014,Natural language that depends on machine learning,0,0
+BasicML043,ndarray[],0,0
+BasicML040,No,0,0
+BasicML025,No idea,0,0
+BasicML002,"No,the problems in the kaggle can done with a kid also who is studying 6th class",0,0
+BasicML020,"no. of classes it is a classification of two groups,i.e.classifies objects in at most two classes.There can be any number of classes classifies the object into more than two classes.",1,1
+BasicML022,No. of correct predictions/Total no. of predictions,2,2
+BasicML039,No.of ,0,0
+BasicML020,"no.of classes It is a classification of two groups, i.e. classifies objects 
+in at most two classes. There can be any number of classes
+ classifies the object into more than two classes",4,4
+BasicML020,"no.of classes It is a classification of two groups, i.e. classifies objects in at most two classes. There can be any number of classes in it, i.e., classifies the object into more than two classes.",4,3
+BasicML022,No.of true positives divided by the total number of true and flase positives.,4,4
+BasicML047,nominal data (also known as nominal scale) is a type of data that is used to label variables without providing any quantitative value. ,4,4
+BasicML047,Nominal data is a named data which can be divided into various groups that do not overlap.,3,3
+BasicML047,"Nominal data is “labeled” or “named” data which can be 
+divided into various groups that do not overlap. Data is not 
+measured or evaluated in this case, it is just assigned to multiple 
+groups. These groups are unique and have no common 
+elements.",5,5
+BasicML047,"Nominal data is “labeled” or “named” data which can be 
+divided into various groups that do not overlap. Data is not 
+measured or evaluated in this case, it is just assigned to multiple 
+groups. These groups are unique and have no common 
+elements.",5,5
+BasicML047,Nominal data is “labeled” or “named” data which can be divided into various groups that do not overlap.,4,3
+BasicML047,Nominal data is “labeled” or “named” data which can be divided into various groups that do not overlap.,4,3
+BasicML047,"Nominal data is “labeled” or “named” data which can be divided into various groups that do not overlap. Data is not measured or evaluated in this case, it is just assigned to multiple groups. These groups are unique and have no common elements",5,5
+BasicML047,Nominal data is also called as Labelled data. It is divided into dissimilar groups that that these are not evaluated further.,4,3
+BasicML047,Nominal data is data that can be labelled or classified into mutually exclusive categories within a variable. These categories cannot be ordered in a meaningful way. ,5,5
+BasicML047,"Nominal data is data that can be labelled or classified into mutually exclusive categories within a variable. These categories cannot be ordered in a meaningful way. For example, for the nominal variable of preferred mode of transportation, you may have the categories of car, bus, train, tram or bicycle.",5,5
+BasicML047,"Nominal data is data that can be labelled or classified into mutually exclusive categories within a variable. These categories cannot be ordered in a meaningful way. For example, for the nominal variable of preferred mode of transportation, you may have the categories of car, bus, train, tram or bicycle.",5,5
+BasicML047,Nominal data is named data which can divided into various groups,3,3
+BasicML047,nominal data means  data can be divided into multiple groups which are not same(similar),4,4
+BasicML047,nominal data means country gender etc..,1,1
+BasicML016,normally used to observe and visually display the relationship between variables,4,3
+BasicML043,np.array(),1,1
+BasicML046,Null method is quite different in python.we use none,0,0
+BasicML020,Number of classes,1,1
+BasicML026,Number of correct predictions Total number of predictions,4,4
+BasicML026,Number of correct predictions/Total number of predictions,4,3
+BasicML026,Number of correct predictions/Total number of predictions.,4,3
+BasicML023,Numpy arrays is that they take less memory space and provide better runtime speed when compared with similar data structures in python,2,2
+BasicML023,"Numpy for creating n-dimension arrays
+Numpy uses less memory to store data
+",2,2
+BasicML028,NumPy is a basic level external library in Python used for complex mathematical operations especially for arrays.,4,3
+BasicML028,NumPy is a basic level external library in Python used for complex mathematical operations.,4,3
+BasicML028,NumPy is a basic level library in Python used for complex mathematical operations. It has built-in functions for manipulating arrays.,4,4
+BasicML028,"Numpy is a library for the Python programming language. It is a fundamental package for scientific computing. It adds support for large, multi-dimensinal arrays and matrices, along with a large collection of high-level mathematical functions",5,5
+BasicML028,"Numpy is a library for the Python programming language. It is a fundamental package for scientific computing. It adds support for large, multi-dimensinal arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.",5,5
+BasicML028,Numpy is a library in python that allows to do operation on arrays,3,3
+BasicML028,Numpy is a library in python that gives access to use arrays in python and these arrays require less memory.,4,4
+BasicML028,Numpy is a python libery which has multidimensional arrays,2,2
+BasicML028,"NumPy is a Python library that provides a multidimensional array object, 
+various derived objects .
+",3,3
+BasicML028,Numpy is a python library used by data scientists for scientific calculations.,3,3
+BasicML028,Numpy is a python library working with arrays .Numpy provides high-level multidimensional arrays and perform various mathematical operations on arrays. ,5,5
+BasicML028,Numpy is a python library.,1,1
+BasicML028,Numpy is one of the library use for learning ml,1,0
+BasicML028,NumPy is the fundamental package for scientific computing in Python. ... NumPy arrays facilitate advanced mathematical and other types of operations on large numbers,4,4
+BasicML028,NumPy is the fundamental package for scientific computing in Python. ... NumPy arrays facilitate advanced mathematical and other types of operations on large numbers of data.,5,5
+BasicML023,Numpy library is a python library and effective one,0,0
+BasicML023,Numpy used for n dimensional array and to perform various mathematical operations on array  based on numpy library.,3,2
+BasicML023,Numpy uses less amount of memory than python. ,1,1
+BasicML023,"NumPy uses much less memory to store data, processing speed is more and fewer lines of code generally means fewer bugs ",3,3
+BasicML023,"NumPy uses much less memory to store data. The NumPy arrays takes significantly less amo
+nunt of memory as compared to python lists. 
+Using NumPy for creating n-dimension arrays.
+Mathematical operations on NumPy n-Dimension Arrays.
+Finding Elements in NumPy array.",5,5
+BasicML023,NumPy uses much less memory to store data. The NumPy arrays takes significantly less amount of memory as compared to python lists.NumPy is used  for creating n-dimension arrays. ,4,3
+BasicML020,"Object which can take at most two classes, object with more than two classes ",0,0
+BasicML017,observation that lies an abnormal distance from other,3,3
+BasicML017,Observation that lies an abnormal distance from other values from population in a random sample,5,5
+BasicML017,observation that lies an abnormal distance from other values from population in a random sample,5,5
+BasicML017,observation that lies at some abnormal distance from other,3,3
+BasicML016,observe and show relationships between two numeric variables,2,2
+BasicML016,observe and show relationships between two numeric variables of the scattered plot,3,3
+BasicML018,Once we understand a topic and get familiar with similar pattern,0,0
+BasicML043,"One dimensional array contains elements only in one dimension. In other words, the shape of the NumPy array should contain only one value in the tuple.",4,4
+BasicML043,"One dimensional array contains elements only in one dimension. In other words, the shape of the numpy array should contain only one value in the tuple.
+
+To create a one dimensional array in Numpy, you can use either of the array(), arange() or linspace() numpy functions.",5,5
+BasicML043,"One dimensional array contains elements only in one dimension. In other words, the shape of the numpy array should contain only one value in the tuple.
+To create a one dimensional array in Numpy, you can use either of the array(), arange() or linspace() numpy functions.",5,5
+BasicML023,One of the main advantages of using Numpy arrays is that they take less memory space and provide better runtime speed when compared with similar data structures in python(lists and tuples). Numpy support some specific scientific functions such as linear algebra.,4,3
+BasicML023,One of the main advantages of using Numpy arrays is that they take less memory space and provide better runtime speed when compared with similar data structures in python(lists and tuples). Numpy support some specific scientific functions such as linear algebra.,4,3
+BasicML020,One or two more classes in binary form ,0,0
+BasicML023,Operations on arrays ,1,1
+BasicML017,"Outlier which changes the value of central tendency.
+Ex:1,1,1,1,1,1,1,1,1,100
+Mean = 10.9
+Here outlier is 100
+Mean without outlier = 1 ",2,2
+BasicML017,"Outliers are some points which is completely higher or different from others in a dataset.
+For example if we consider a colony in which all the members monthly salary are around 50k...but one have more than 7L....if we calculate the mean then we get something mare than average.so That person is an outlier",3,3
+BasicML026,Output should be correctly ,0,0
+BasicML013,Panda read_csv() ,2,2
+BasicML046,"Pandas isnull() function detect missing values in the given 
+object. It return a boolean same-sized object indicating if the 
+values are NA. Missing values gets mapped to True and non-
+missing value gets mapped to False.
+Syntax: DataFrame.isnull()",5,5
+BasicML015,Pandas librabry provide functions which will helps us to do various programs,0,0
+BasicML010,Pandas. drop() ,2,2
+BasicML019,Part of machine learning it learns by itself without coding.,0,0
+BasicML013,"pd.read_csv(""file path"")",3,3
+BasicML013,pd.read_csv(),1,1
+BasicML013,pd.read_csv(filename).,4,3
+BasicML013,Pd.read_csv('filepath'),3,3
+BasicML013,pd.read_csv('path of file'),3,3
+BasicML043,"pip install numpy
+import numpy as np
+np.array([3,2])",3,3
+BasicML008,"Population deals with the whole thing, whereas sample deals with the random part of population.",4,4
+BasicML008,"Population is a entire data set
+But sample is a same part of a data set",3,3
+BasicML008,Population is complete data. Sample is a part of population,3,3
+BasicML008,Population is defined in terms of total number where as sample is defined from population with certain characteristics.,4,3
+BasicML008,Population is the entire data from which the conclusions can be drawn and a sample is a part of it. Generally the the size of the sample is less than that of the population.,5,5
+BasicML008,"Population is the entire grp that you want to draw the conclusion
+Sample is the specific grp that you will collect the data frm",4,4
+BasicML008,Population is where we can fing all the details where the sample is where we can find the small part of a population,2,2
+BasicML008,"Population: is the entire group that you want to draw conclusions
+about.
+Sample: is the specific group that you will collect data from. 
+The size of
+the sample is always less than the total size of the population.",5,5
+BasicML008,"Population-entire data, sample-specific group of data",3,3
+BasicML022,Precision = number of correct predictions/ total number of predictions,5,5
+BasicML022,Precision = true positives / ( true positive + false positives) ,5,5
+BasicML022,Precision = TruePositives / (TruePositives + FalsePositives),5,5
+BasicML022,Precision depends on the data ,0,0
+BasicML022,"Precision is a metric that quantifies the number of correct positive predictions made. 
+Precision = TruePositives / (TruePositives + FalsePositives)",5,5
+BasicML022,"Precision is a metric that quantifies the number of correct positive predictions made. Precision, therefore, calculates the accuracy for the minority class.",3,3
+BasicML022,Precision is a metric that quantities the no. Of correct+ve predictions made.,2,2
+BasicML022,Precision is calculated as the number of true positives divided by the total number of true positives and false positives.,5,5
+BasicML022,precision is calculated as the ratio of correct values to all the data.,2,2
+BasicML022,Precision is the ratio between the True Positives and all the points that are classified as Positives,5,5
+BasicML022,Precision quantifies the number of positive class predictions that actually belong to the positive class. It is calculated as the number of true positives divided by the total number of true positives and false positives.,5,5
+BasicML022,Precision to a given data can be calculated by the range of the data i.e.numerical difference between the maximum and minimum value of the data.,0,0
+BasicML042,"PRecision, recall, accuracy, which can be calculated from confusion matrix",3,3
+BasicML042,"Precision, Recall, F1 SCore",3,3
+BasicML024,Process of classifying something,0,0
+BasicML024,Process of classifying something into groups based on a specific category.,2,1
+BasicML015,"Python Pandas library provides a really fast and efficient way to manage and explore data. Pandas can be used to handle missing data, cleaning up data, indexing, merging and joining of datasets etc.",5,5
+BasicML049,QTrain-Test Split Procedure in Scikit-Learn. The scikit-learn Python machine learning library provides an implementation of the train-test split evaluation procedure via the train_test_split() function,5,5
+BasicML021,Qualitative data has quality in the data,0,0
+BasicML021,"Qualitative data is data concerned with descriptions, which can be observed but cannot be computed. On the contrary, quantitative data is the one that focuses on numbers and mathematical calculations and can be calculated and computed.",5,5
+BasicML021,"qualitative data is information about quantities and therefore numbers
+qualitative data is descriptive and regards phenomenon which can be observed but not  measured  and such as language",5,5
+BasicML021,"Quantitative analysis deals with numericals and results of statistics.
+Qualitative analysis deals with description and analysing patterning etc.",5,5
+BasicML021,"Quantitative data are measures of values and are expressed as numbers. Qualitative data are measures of types and are expressed by a name, symbol or a number code",5,5
+BasicML021,"Quantitative data can be measured with numbers, whereas qualitative is categorical.",3,3
+BasicML021,"Quantitative data gives a numerical value which is associated with that data.
+Qualitative data describes the quality of an entity that represents.",5,5
+BasicML021,Quantitative data is about quantities and qualitative data is about descriptive ,3,3
+BasicML021,"Quantitative data is about quantities and qualitative data is descriptive which can be observed but not measured.
+
+No. of correct predictions/Total no. of predictions",3,3
+BasicML021,"Quantitative data is anything that can be counted or measured.
+Qualitative data is descriptive.but not be measured.",5,5
+BasicML021,"Quantitative data is anything that can be counted or measured; it refers to numerical data.
+Qualitative data is descriptive, referring to things that can be observed but not measured—such as colors or emotions.",5,5
+BasicML021,Quantitative data is information about quantities and qualitative data is descriptive about phenomenon which can be observed but not measured,5,5
+BasicML021,Quantitative data is information about quantities(numbers) and qualitative data is descriptive.,4,3
+BasicML021,"Quantitative data is information about quantities, and therefore numbers, and qualitative data is descriptive, and regards phenomenon which can be observed but not measured, such as language.",5,5
+BasicML021,"Quantitative data is information about quantities, and therefore numbers, and qualitative data is descriptive, which can be observed but not measured, such as language.",5,5
+BasicML021,"Quantitative data is information about quantities, and therefore numbers, and qualitative data is descriptive, and regards phenomenon which can be observed but not measured, such as language",5,5
+BasicML021,"Quantitative data is information about quantities, and therefore numbers, and qualitative data is descriptive, and regards phenomenon which can be observed but not measured, such as language",5,5
+BasicML021,"Quantitative data is information about quantities, and therefore numbers, and qualitative data is descriptive, and regards phenomenon which can be observed but not measured, such as language",5,5
+BasicML021,"Quantitative data is information about quantities, and therefore numbers.
+Qualitative data is descriptive, and regards phenomenon which can be observed but not measured, such as language.",5,5
+BasicML029,"Quantitative data is sub classified as discrete and continuous data. Discrete data contains finite values that have nothing in-between. It can take only distinct or separate values. Continuous data contains data that can be measured, that includes fractions and decimals. Discrete data is Countable, where as Continuous data is measurable.",5,5
+BasicML029,"Quantitative data is sub classified as discrete and continuous data. Discrete data contains finite values that have nothing in-between. It can take only distinct or separate values. Continuous data contains data that can be measured, that includes fractions and decimals.",5,5
+BasicML021,"Quantitative data is that can be measured,where qualitative data is that canbot be measured and can be observed.",5,4
+BasicML021,"Quantitative data means the Data which have parameters or the Data which we can measure *for example:-data on leangths, hights etc...
+Qualitative data means the Data which do  not have perameters or the Data do not have measurements
+*For example:-data on emotions etc... ",5,5
+BasicML021,"Quantitative data refers to the information that can be quantified, counted or measured and given a numerical value. for eg: Number of students in a class.",3,2
+BasicML021,"Quantitative data refers to the information that can be quantified, counted, or measured and given a numerical value. for eg: The number of students in a class.
+Qualitative data is descriptive in nature, expressed in terms of language rather than numerical values for eg: The native language of a person.",5,5
+BasicML021,Quantitative is used for counting and measuring and Qualitative is used for categorising and describing,5,4
+BasicML021,quantitative means measurable and qualitative means non measurable.,3,3
+BasicML035,"R square, adjusted R square, Mean square errors, Mean absolute errors",4,4
+BasicML035,"R square,Mean Square Error(MSE),Mean Absolute Error(MAE)",5,5
+BasicML014,"random trees,random forests, logestic regressions, etc..",2,2
+BasicML013,read_csv,1,1
+BasicML013,read_csv(),2,2
+BasicML013,read_csv()function import of coverage file data frame foramta,1,1
+BasicML034,Rectangular/square,0,0
+BasicML014,"Regression,Decision tree, vector machines",1,1
+BasicML016,Relation between two variables,2,2
+BasicML025,resampleing procedure used to limited data sample ,1,1
+BasicML046,returns the null values in the dataset ,4,4
+BasicML035,"RMSE, MSE",3,3
+BasicML035,"Root square, Mean square error,Mean Absolute Error.",4,4
+BasicML040,Running the example prints the current version of the matplotlib library.,0,0
+BasicML016,Scatter plot gives us a variation between the datasets by plotting dots,1,1
+BasicML016,Scatter plot is a set of points that represents the values obtained for two different variables plotted on a horizontal and vertical axes . Scatter plots are used to convey the relationship between two numerical variables,4,4
+BasicML016,scatter plot is set of points which gives relation between two variables,3,2
+BasicML044,Scatter plot Line plot swarm plot strip plot,4,4
+BasicML016,Scatter plot shows that hoe one variable is affected by another variable in a two dimensional dots format,2,2
+BasicML016,Scatter plot will convey relationship between two numerical value ,2,2
+BasicML044,"Scatter Plot, Histogram, Line Plot, Strip plot, Swarm Plot, Bar Chart, Pie chart",5,5
+BasicML044,"Scatter Plot, Line Plot, Strip plot, Swarm Plot, Bar Chart, Pie chart",5,5
+BasicML044,"Scatter Plot, Line Plot, Strip plot, Swarm Plot, Bar Chart, Pie chart",5,5
+BasicML044,"Scatter Plot, Line Plot, Strip plot, Swarm Plot, Historgrams, Bar Chart, Pie chart",5,5
+BasicML044,"Scatter Plot, Line Plot, Strip plot, Violin Plot, Bar Chart, Pie chart",5,5
+BasicML044,"Scatter plot, mean plot, dot plot",2,2
+BasicML016,Scatter plots are used to convey the relationship between two numerical variables,2,2
+BasicML016,scatter plots are used to convey the relationship between two numerical variables,3,3
+BasicML016,"Scatter plots are used to observe and show the relationship between two numeric variables, and for identifying other patterns in data. Scatter plots helps to identify the positive or negative, strong or weak, linear or non-linear relationships.",5,5
+BasicML016,"Scatter plots are used to summarize the relationship between two numeric variables, and for identifying other patterns in data. Scatter plots helps to identify the positive or negative, strong or weak, linear or non-linear relationships.",5,5
+BasicML016,"Scatter plots are used to summarize the relationship between two numeric variables, and for identifying other patterns in data. Scatter plots helps us in identifying the positive or negative, strong or weak, linear or non-linear relationships.",5,5
+BasicML016,"Scatter plots helps to identify the positive or negative, strong or weak, linear or non-linear relationships.",3,3
+BasicML044,"Scatter plots
+Historgram",2,2
+BasicML040,Seaborn  requires matplotlib is installed first. Running the example print current version of the seaborn library,4,4
+BasicML040,Seaborn and matplotlib are the libraries of python used to visualise the data. Seaborn is the extension of matplotlib.,5,5
+BasicML040,Seaborn is a Python data visualization library based on matplotlib and it provides high-level interface for drawing attractive and informative statistical graphics.,5,5
+BasicML040,Seaborn needs matplotlib .For seaborn plots we used to import seaborn library to create plots,4,4
+BasicML040,Seaborn requires matplotlib which should be installed first,4,4
+BasicML040,"Seaborn requires matplotlib.Running the examples prints the version of seaborn library.To create seaborn plots,it is necessary to import the seaborn library.",5,5
+BasicML040,"Seaborn requires that Matplotlib is installed first. Running the example prints 
+the current version of the Matplotlib library. Running the example prints the 
+current version of the Seaborn library",5,5
+BasicML040,"Seaborn requires that Matplotlib is installed first. Running the example prints
+the current version of the Matplotlib library. Running the example prints the
+current version of the Seaborn library. To create Seaborn plots, you must
+import the Seaborn library and call functions to create the plots",5,5
+BasicML040,Seaborn requires that matplotlib is installed first.To create seaborn plots you must import the seaborn library and call functions to create plots.,4,4
+BasicML007,Set of instructions in an ordered manner,3,3
+BasicML007,Set of instructions to perform a specific task,4,4
+BasicML038,"Sort data
+Knowing about the data.
+Data cleaning whether any null values present in data.
+Describing about data.
+And finally about the data visualizations.",5,5
+BasicML041,Square of the difference between the actual value and predicted value.,2,2
+BasicML007,Step by step process of programming,2,2
+BasicML007,Step by step process to solve a problem,4,4
+BasicML044,"Strip plot, dot plot",2,2
+BasicML019,"Subcategory of machine learning
+Classify data or predict outcomes accurately",3,3
+BasicML003,Sum of all the data in the  features divided total number of  features,3,3
+BasicML003,Sum of the data divided by the count of the data points .,3,3
+BasicML011,"summarizes one variable, two variables,more than two variables respectively",4,3
+BasicML041,Summation (y-y^)^2/n,4,4
+BasicML019,Supervised learning is a sub category of machine learning  it is defined by its use of labelled datasets to train algorithms that to classify data to predict outcomes accurately.,5,5
+BasicML019,Supervised learning is a type of machine learning which uses labeled datasets to train algorithms to classify data or predict outcomes accurately. ,5,5
+BasicML019,Supervised learning is a type of machine learning. It is defined by its use of labeled datasets to train algorithms to classify data or predict outcomes accurately. ,5,5
+BasicML019,Supervised learning is a type of machine learning. It is defined by its use of labeled datasets to train algorithms to classify data or predict outcomes accurately. Classification and regression are the two ways to perform supervised learning.,5,5
+BasicML019,"Supervised learning is also known as supervised machine learning, is a subcategory of machine learning .It uses label ed datasets to train algorithms.
+",5,5
+BasicML019,supervised learning uses labeled input data and predict output..,3,3
+BasicML019,supervised machine learning is a category of machine learning and artificial intelligence,1,1
+BasicML024,Systamatic arrangement in groups or categories according to established criteria specifically,2,1
+BasicML024,Systematic arrangement  of groups or categories based on  similarities ,2,2
+BasicML024,Systematic arrangement in groups,2,1
+BasicML024,"systematic arrangement in groups or categories according to 
+established criteria specifically.",2,1
+BasicML024,systematic arrangement in groups or categories according to established criteria specifically.,2,1
+BasicML024,Systematic arrangement in groups or catogiries according to established criteria,2,1
+BasicML023,Takes less memory and have many built-in methods included in it,2,2
+BasicML023,Takes less memory and provides better runtime,2,2
+BasicML019,Taking labelled input and ouputing the data ,1,1
+BasicML019,Teaching a model by providing the data.,2,1
+BasicML041,Tells how to close a regerssion line is to set a point,3,3
+BasicML031,That shows magnitude in two dimensions.,2,1
+BasicML043,"The 1D array creation functions e.g. numpy.linspace and numpy.arange generally need at least two inputs, start and stop.
+
+>>> np.arange(10)
+array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])
+>>> np.arange(2, 10, dtype=float)
+array([ 2., 3., 4., 5., 6., 7., 8., 9.])
+>>> np.arange(2, 3, 0.1)
+array([ 2. , 2.1, 2.2, 2.3, 2.4, 2.5, 2.6])",5,5
+BasicML033,The absolute error (MAE) turns out to be 2.42857. this tells us the avg difference between the actual data value,4,3
+BasicML026,The accuracy is how perfectly it works and gives the output Correctly,2,2
+BasicML026,The accuracy is how perfectly it works and gives the output correctly,3,2
+BasicML026,The accuracy is prefectly it works and gives the output correctly.,0,0
+BasicML026,The accuracy of a model is how perfectly it works and gives the output correctly,3,3
+BasicML041,"the average 
+squared difference between the estimated values and true value. ",4,4
+BasicML033,The average difference between the actual data value and predicted value.,3,3
+BasicML033,the average difference between the actual data value and the value predicted by the model.,5,5
+BasicML035,"The commonly used metrics for evaluating the performance of a regression model are Mean Squred Error (MSE), Root Mean Squared Error (RMSE), Mean Absolute Error(MAE).",5,5
+BasicML035,"The commonly used metrics for evaluating the performance of a regression model are Mean Squred Error (MSE), Root Mean Squared Error (RMSE), Mean Absolute Error(MAE).",5,5
+BasicML047,"the data which cant be counted in a value is called nominal data eg:colour,sex etc..,",4,4
+BasicML047,The data which is labeled Or named. It has groups which it has no common elements. It is also known as categorial daya,3,3
+BasicML020,the difference is examples are assigned to one of two in Binary and assigned to one of many in multiclass classification..,5,5
+BasicML010,The drop() method of pandas DataFrame object removes the specified column.,5,5
+BasicML010,The drop() method of pandas DataFrame removes the specified column.,5,5
+BasicML033,The error that find in predicted value and actual value,1,0
+BasicML046,The insull() method returns a specified value if the expression is null.,3,3
+BasicML042,"The key classification metrics: Accuracy, Recall, Precision, and F1- Score. ",4,4
+BasicML030,"The main goal of data visualization is to make it easier to identify patterns, trends and outliers in large datasets.",4,4
+BasicML033,"The mean absolute error (MAE) turns out to be 2.42857. This tells us 
+that the average difference between the actual data value and the 
+value predicted by the model is 2.42857",3,3
+BasicML033,"The mean absolute error (MAE) turns out to be 2.42857. This tells us 
+that the average difference between the actual data value and the 
+value predicted by the model is 2.42857",4,4
+BasicML041,The mean square error is is determined by it is the average of of defence of squared actual value to the value that is expected,4,3
+BasicML041,"The Mean Squared Error (MSE) or Mean Squared Deviation (MSD) of 
+an estimator measures the average of error squares i.e. the average 
+squared difference between the estimated values and true value. It is 
+a risk function, corresponding to the expected value of the squared for loss.",5,5
+BasicML041,"The Mean Squared Error (MSE) or Mean Squared Deviation (MSD) of 
+an estimator measures the average of error squares i.e. the average 
+squared difference between the estimated values and true value. It is 
+a risk function, corresponding to the expected value of the squared 
+error loss.",5,5
+BasicML041,"The Mean Squared Error (MSE) or Mean Squared Deviation (MSD) of 
+an estimator measures the average of error squares i.e. the average 
+squared difference between the estimated values and true value. It is 
+a risk function, corresponding to the expected value of the squared 
+error loss.",5,5
+BasicML041,"The Mean Squared Error (MSE)of 
+an estimator measures the average of error squares i.e. the average 
+squared difference between the estimated values and true value. It is 
+a risk function, corresponding to the expected value of the squared 
+error loss.",5,5
+BasicML041,"The Mean Squared Error is a measure of the average 
+squared difference between the estimated values and true value",5,5
+BasicML041,The Mean Squared Error measures the average of error squares. Simply it is the average squared difference between the predicted and the true value.,5,5
+BasicML041,"The Mean Squared Error of 
+an estimator measures the average 
+squared difference between the estimated values and true value. ",5,5
+BasicML026,The measurement  to determine which model is best and how perfectly the model works correctly or not.,4,4
+BasicML049,The method is used to divide the data and worked on the small data by this you can stop dividing the data manually,3,3
+BasicML039,The mode is the value that appears most frequently in the data set. ,5,4
+BasicML039,"The mode is the value that appears most frequently in the dataset. A set of data may have one mode, more than one mode or no mode at all.",5,5
+BasicML039,"The mode is the value that appears most frequently in the dataset. A set of data may have one mode, more than one mode or no mode at all.",5,5
+BasicML039,The most frequently occured value in a dataset,4,4
+BasicML014,"The most popular classification algorithms are Logistic Regression, Naive Bayes, Decision Tree, Random Forest, LBGM, XGB, Support Vector Machines, K-Nearest Neighbors. ",5,5
+BasicML014,"The most popular classification algorithms are Logistic Regression, Naive Bayes, Decision Tree, Support Vector Machines, K-Nearest Neighbors. ",5,5
+BasicML014,"The most popular classification algorithms are Logistic Regression, Naive Bayes, K-Nearest Neighbors, Decision Tree, Support Vector Machines. ",5,5
+BasicML041,the MSE is a measure of the quality of an estimator,1,1
+BasicML041,The MSE is a measure of the quality of an estimator.,1,1
+BasicML041,The MSE measures the average of error squars which means the average squared difference between True value and Estimated value,4,4
+BasicML047,The nominal data is a labelled data there will be no calculations then in the snow on the nominal data there will be just assignment the values to the discrete columns,3,3
+BasicML039,The number of times a value repeated in given data,0,0
+BasicML022,The number of true positives divide by the number of true positives plus the number  of false positives.,5,5
+BasicML022,the number of true positives divided by the number of true positives plus the number of false positives.,4,4
+BasicML023,"The NumPy arrays have advantages like Multi-dimensional Slicing, Broadcasting Functionality, processing speed, vectorized operaions, memory footprint and it has many convenience methods.",5,5
+BasicML017,"The odd feature that is the reason for large change in mean, mode and median.",2,2
+BasicML026,The output of model should accuracy,0,0
+BasicML042,"The performance of classification models is evaluated by using Accuracy, Precision, Recall, F1 score, Log loss or Binary crossentropy, categorical crossentropy, AUC.",5,5
+BasicML042,"The performance of classification models is evaluated by using Accuracy, Precision, Recall, F1 score, Log loss or Binary crossentropy, categorical crossentropy, AUC.",5,5
+BasicML017,the point or points that are farthest from the regression line,2,1
+BasicML022,"The precision for this model is calculated as:
+
+Precision = TruePositives / (TruePositives + FalsePositives)
+Precision = 90 / (90 + 30)
+Precision = 90 / 120.
+Precision = 0.75",5,5
+BasicML022,"The precision for this model is calculated as:
+
+Precision = TruePositives / (TruePositives + FalsePositives)
+Precision = 90 / (90 + 30)
+Precision = 90 / 120.
+Precision = 0.75.",5,5
+BasicML022,"The precision for this model is calculated as:
+
+Precision = TruePositives / (TruePositives + FalsePositives)
+Precision = 90 / (90 + 30)
+Precision = 90 / 120.
+Precision = 0.75.",5,5
+BasicML022,"The precision for this model is calculated as:
+
+Precision = TruePositives / (TruePositives + FalsePositives)
+Precision = 90 / (90 + 30)
+Precision = 90 / 120.
+Precision = 0.75.
+
+
+",5,5
+BasicML039,The repeated value,1,1
+BasicML039,The repitation of a number more frequently in a series,3,3
+BasicML041,The square of the difference between the actual value and the predicted value of the data ,4,4
+BasicML038,"The steps that are implemented in the data analysis process are 
+1. Determining the objective
+2. Data Collection
+3. Data Cleaning
+4. Interpreting the data
+5. Presentation of the results to the outside world",5,5
+BasicML038,"The steps that are implemented in the data analysis process are 
+1. Determining the objective
+2. Data Collection
+3. Data Cleaning
+4. Interpreting the data
+5. Sharing the results",5,5
+BasicML044,The swarm plot,1,1
+BasicML032,The unique() method in pandas library is used to find the unique value from the data set,4,4
+BasicML039,The value which appears more frequently called mode,4,4
+BasicML039,the value which appears most frequently in the given data,4,4
+BasicML027,These algorithms discover hidden patterns or data groupings without the need for human interference,3,3
+BasicML031,They are 2d representation of data in which values are represented by colours.they show the user behaviour on webpages.like it can know how far they have seen that webpage and also used in eye -tracking tests.,4,4
+BasicML016,They show correlation of the variables. ,2,2
+BasicML023,They take less memory space and provide better runtime speed.,2,2
+BasicML033,this gives the difference between actual value and predicted value,3,3
+BasicML047,"This have two or more categories
+We cannot assign categories in a proper way ",3,2
+BasicML033,This is average difference  between the actual data value and the value predicted by model is 2.4,3,3
+BasicML027,This is where we are able to group things together based on their similarities and allows the system to identify patterns within data sets on its own,4,4
+BasicML049,This method is used to split the arrays into subsets  ,2,2
+BasicML046,This method to identify the null values,3,3
+BasicML004,this question is not appropriate but according to m6y aknowlegement the answer may be by using head() function because defaultly its function worksm like as in the questiion,2,1
+BasicML033,"This tells us 
+that the average difference between the actual data value and the 
+value predicted by the model ",5,5
+BasicML018,to analyze and investigate data sets and summarize their main characteristics,3,3
+BasicML037,To arrange data in proper way,0,0
+BasicML003,"To calculate mean, add together all of the numbers in a set and 
+then divide the sum by the total count of numbers.",3,3
+BasicML043,"To create 1D array we can use array() Or arrange() function. First import array function. 
+a=np.array([1, 2,4]) 
+print(a) 
+Output:[1,2,4]",5,5
+BasicML043,"To create an 1d array, we can pass a list, tuple or any array-like object into the array() method, and it will be converted into an 1d array",4,3
+BasicML032,"to extract the unique values from the column.
+",3,3
+BasicML032,To extract the unique values from the columns,3,2
+BasicML032,To extract the unique values in the dataset,3,3
+BasicML032,to extract unique values from the columns or to find unique data,4,3
+BasicML046,To find the null values in the dataset,2,2
+BasicML018,To get information and get familiar with the data set and generate the information ,3,2
+BasicML032,To identify the unique values.,2,2
+BasicML030,to know more about data by seeing.,1,0
+BasicML008,"Total data   collection is  population
+Taking of some of data is called sample",4,4
+BasicML022,Total number of correct predictions divided by the total number of predictions,3,2
+BasicML003,Total sum by no of features,3,2
+BasicML019,Train alagarathims that to clasify data or predict outcomes,2,2
+BasicML025,Train and validate a given model ,3,3
+BasicML049,train_test_split is a function in Sklearn model selection for splitting data arrays into two subsets,4,4
+BasicML049,train_test_split is a function in Sklearn model selection for splitting data arrays into two subsets: for training data and for testing data.,5,5
+BasicML049,train_test_split is a function in Sklearn model selection for splitting data arrays into two subsets: for training data and for testing data.,5,5
+BasicML049,"train_test_split is a function in Sklearn model selection for splitting data arrays into two subsets: for training data and for testing data. With this function, you don't need to divide the dataset manually. By default, Sklearn train_test_split will make random partitions for the two subsets.",5,5
+BasicML049,"train_test_split is a function in Sklearn model selection for splitting data arrays into two subsets: for training data and for testing data. With this function, you don't need to divide the dataset manually. By default, Sklearn train_test_split will make random partitions for the two subsets.",5,5
+BasicML049,"train_test_split is a function in Sklearn model selection for splitting data arrays into two subsets: for training data and for testing data. With this function, you don't need to divide the dataset manually. By default, Sklearn train_test_split will make random partitions for the two subsets",5,5
+BasicML049,train_test_split() divide the uploaded data into training data and test data .,4,4
+BasicML049,train_test_split() is a function in Sklearn model selection for splitting data arrays into two subsets.One is for training data and another one for testing data.,5,5
+BasicML049,train_test_split() is a method of sklearn model selection. It is used to split the data into two subsets- training data and testing data.,5,5
+BasicML049,train_test_split() is a method of sklearn model selection. It is used to split the data into two subsets- training data and testing data.,5,5
+BasicML049,train_test_split() is a method of sklearn model selection. It is used to split the data into two subsets- training data and testing or validation data.,5,5
+BasicML049,Train_test_split() is afunction in sklearn model selection for splitting data arrays into two subsets.for training data and for testing data,5,5
+BasicML049,train_test_split() method is used to determine the perfomance of an machine algorithm,0,0
+BasicML019,Training a machine using labelled datasets.,2,2
+BasicML019,Training a machine using labelled datasets. ,2,2
+BasicML027,Training model without labeled data set,2,1
+BasicML019,Training the machines and importing desired characteristics and properties to a machine,2,2
+BasicML019,Trainning the machine with labels.,0,0
+BasicML022,True positive/True positive+ False positive,3,3
+BasicML022,True positive/true positive+false positive,3,3
+BasicML022,TruePositives/FalsePositives+TruePositives,3,3
+BasicML026,TRUEPOSITIVES+TRUENEGITIVITES/TRUEPOSITIVES+TRUENEGITIVITES+FALSE POSITIVITES+FALSE NEGATIVITIES,4,4
+BasicML032,Unique() method is used to extract the unique values for the columns.,4,4
+BasicML032,Unique() method is used to extract the unique values from columns,4,4
+BasicML011,"Univariate discuss about one variable
+Bivariate about two variables
+Multivariate about more than two variables",4,3
+BasicML011,"Univariate involves only one variable analysis, where bivariate statistics compare two variables and multivariate contains more than two variables comparison. ",5,5
+BasicML011,"Univariate means using one variable at a time
+Bivariate means comparing two variables
+Multivariate means comparing more than two variables",5,4
+BasicML011,"Univariate plots visualize only one variable at a time, Bivariate plots can visualize and compare two variables and Multivariate plots can summarize more than two variables.",5,5
+BasicML011,"Univariate plots visualize only one variable at a time, Bivariate plots can visualize and compare two variables and Multivariate plots can visualize more than two variables.",5,5
+BasicML037,"Univariate plotting can be done through Bar Chart, Line Chart, Area chart, Histogram, violin plot.",5,5
+BasicML037,"Univariate plotting can be done through Bar Chart, Line Chart, Area chart, Histogram.",5,5
+BasicML044,"Univariate scatter plot
+Line plot
+Strip plot
+Swarm plot",3,3
+BasicML011,"Univariate statistics summarize only one variable 
+Bivariate statistics summarize two variable 
+Multivariate statistics summarize more than two variable ",5,5
+BasicML044,"Univariate statistics summarizes the only one variable at a time.Box plot,Histograms,,scatter plot,Violion plot .",5,5
+BasicML011,"Univariate summariaze only one variable at a time
+Bivariate statistics compare 2 variables
+Multivariate compare more than 2 variables",5,5
+BasicML011,"univariate summarize only one variable.
+Bivariate compare two variables.
+Multivariate compare more than two variables",5,5
+BasicML011,"Univariate summarizes one variable, bivariate summarizes two variables and multivariate summarizes  more than three variables for statistics",5,5
+BasicML011,"Univariate:only one variable is taken and plotted.
+Bivariate:two variables are compared and plotted.
+Multivariate:more than two variables are compared and plotted.",5,5
+BasicML011,"univariate---looks at one variable
+bivariate----looks at two variable
+multivariate---looks at more than two variables",4,3
+BasicML011,"univariate-one, bivariate-two, multivariate-three",2,2
+BasicML011,"Univariate-statistics summarize only one variable at a time.
+Bivariate-statistics compare two variables.
+Multivariate-statistics compare more than two variables",5,5
+BasicML027,Unsupervised learning also known as unsupervised machine learning uses machine learning algorithms to analyze and cluster unlabeled datasets,4,4
+BasicML027,"unsupervised learning approaches are clustering, dimensionality reduction and it can applied in Computer Vision, Medical Imaging, Recommendation Engines etc.",3,3
+BasicML027,"Unsupervised learning is a kind of machine learning where a 
+model must look for patterns in a dataset with no labels and 
+with minimal human supervision.",4,4
+BasicML027,Unsupervised learning is a kind of machine learning where a model must look for patterns in a data set with no labels and with minimum human supervision,5,4
+BasicML027,Unsupervised learning is a kind of machine learning where a model must look for patterns in a dataset with no labels and with minimal human supervision,4,3
+BasicML027,Unsupervised learning is a sub category of learning where we do not use labled data.,2,2
+BasicML027,Unsupervised learning refers to the use of artificial intelligence (AI) algorithms to identify patterns in data sets containing data points that are neither classified nor labeled,4,3
+BasicML027,Unsupervised learning refers to the use of artificial intelligence (AI) algorithms to identify patterns in data sets containing data points that are neither classified nor labeled.,4,3
+BasicML027,Unsupervised learning refers to the use of artificial intelligence (AI) algorithms to identify patterns in data sets containing data points that are neither classified nor labeled. ...,5,4
+BasicML027,Unsupervised learning refers to the use of artificial intelligence (AI) algorithms to identify patterns in data sets containing data points that are neither classified nor labeled. ...,5,4
+BasicML027,"Unsupervised learning used machine learning algorithms to analyze and clused unlabeled datasets. These algorithms discover hidden patterns or data groupings without the need for human intervention. Common unsupervised learning approaches are clustering, dimensionality reduction and it can applied in Computer Vision, Medical Imaging, Recommendation Engines etc.",5,5
+BasicML027,"Unsupervised learning uses machine learning algorithms to analyze and cluser unlabeled datasets. These algorithms discover hidden patterns or data groupings without the need for human intervention. some of the unsupervised learning approaches are clustering, dimensionality reduction and it can applied in Computer Vision, Medical Imaging, Recommendation Engines etc.",5,5
+BasicML027,"Unsupervised learning, also known as unsupervised machine learning, uses machine learning algorithms to analyze and cluster unlabeled datasets",4,4
+BasicML027,unsupervised machine learning uses machine learning algorithms to analyze unlabeled datasets.,3,3
+BasicML046,"Used for bolean expression
+If expression is null then it shows true 
+If expression is not null then it shows false ",5,5
+BasicML018,Used for graphical representations etc,1,1
+BasicML027,Used for non-lableling data ,1,1
+BasicML019,used labeled datasets to analyse data and predict output accuratly,3,3
+BasicML041,Used loss function for regression,1,1
+BasicML046,Used to fill the missing values in the data.,0,0
+BasicML046,Used to get missing values in a data,2,2
+BasicML015,"Used to read CSV files
+Used for cleaning the data
+Used to fill null values",3,3
+BasicML049,Used to seperate the data into two forms one for training and another for testing or validation,5,5
+BasicML045,used to show the data into pictorial form,0,0
+BasicML010,Using drop function..,2,2
+BasicML010,Using drop() down technique,1,1
+BasicML004,"Using head function
+(Dataset_name.head())",5,5
+BasicML004,Using head() method,5,5
+BasicML013,using the method .read_csv(),3,3
+BasicML039,Value that has a higher frequency in given set of values.,4,4
+BasicML039,Value which appears more frequently is called mode.,4,3
+BasicML030,Visualization helps us to the understandings of data entirely through plots and graphs interpreting.,2,2
+BasicML005,We can  create a notebook and write program s .,1,1
+BasicML023,We can  do operation on matrices,1,1
+BasicML005,We can combine both code and text in the Google colab notebook,4,3
+BasicML043,We can create a one dimensional array by indicating the size of the array for that first we have to import numpy and we can give any some my list is equals to some values and array is equals to my list this array will contain the one dimensional array,5,5
+BasicML016,we can observe relationship between two numeric terms,3,2
+BasicML005,We can run the code and write the text related to that code.,2,1
+BasicML030,"We can spot patterns, identify trends and find outliers in the data.",3,3
+BasicML005,"We can write code into it we can push it into Git hub if necessary and can save them in our drives and also has better options such as saving a copy ,in drive and also in github",4,4
+BasicML032,We have to use the unique ()method to extract the unique values from the columns.The pandas library in python can easily help us to find unique data,5,5
+BasicML032,"we have to use the unique() method to extract the unique values 
+from the columns. The Pandas library in Python can easily help us 
+to find unique data",5,5
+BasicML032,"we have to use the unique() method to extract the unique values 
+from the columns. The Pandas library in Python can easily help us 
+to find unique data",5,5
+BasicML032,"we have to use the unique() method to extract the unique values 
+from the columns. The Pandas library in Python can easily help us 
+to find unique data",5,5
+BasicML032,We have to usethe unique() method to extarct the unique values from the columns... And it is also hep us to find the unique data,5,5
+BasicML032,We have use the unique method to extract the unique values from the columns.The pandas library can be very useful to find the unique data. ,5,5
+BasicML010,We use dataFrame.drop() and inside them we use will keep the  required things which we want  to delete,5,5
+BasicML013,We use read_csv () method,3,2
+BasicML013,We use read_csv method,3,3
+BasicML032,we use the unique() method to take the unique values from columns.the pandas library will help us to find unique data.,5,5
+BasicML027,When we train a model only with input  it comes under unsupervised learning,2,2
+BasicML039,Which comes more frequently in data set,3,3
+BasicML006,Which contains rows and columns with a varying data,1,2
+BasicML006,Which contains the data of related matter.,1,2
+BasicML039,Which has a high frequency or appears more frequently is called mode,5,4
+BasicML039,"which has a high frequency or appears more frequently is called mode or 
+modal value",5,5
+BasicML039,Which has high frequency is called mode,3,3
+BasicML047,which is nominal,0,0
+BasicML025,With the help Cross-validation we train our model using the subset of the data-set ,3,2
+BasicML027,Without labeled dataset training model,2,1
+BasicML040,yes,3,3
+BasicML040,Yes,3,3
+BasicML040,yes,3,3
+BasicML040,Yes,3,3
+BasicML040,Yes,3,3
+BasicML040,"Yes 
+To draw plots",3,3
+BasicML002,"Yes .., because it contains lots of courses usefull to us . We have to write code there. And earn certificates also.it has lots of data sets which r usefull to do while eda process and others.",4,4
+BasicML002,Yes because it offers free courses and serves as a platform for many competitions. ,5,5
+BasicML002,"Yes I do, because kaggle is a good platform to learn Machine learning.it produces easy operations. The content in the kaggle is very clear and understandable.In kaggle we can write the code we can implement the code.We can participate in some competitions in kaggle .",5,4
+BasicML040,"yes seaborn needs matplotlib, because it is used to draw the plots.",4,4
+BasicML002,"Yes, because it helps us to learn lot of course s like python , pandas etc... ",3,3
+BasicML002,"Yes, because it provides datasets to visualise the code even we can write the code on it . It provide notebook etc..,",3,3
+BasicML002,"Yes, because it provides valuable information for one who are interested in the field of artificial intelligence and way it provides courses are very useful",4,3
+BasicML002,"Yes, it is helpful and easier to understand provide us to learn a lot.",3,2
+BasicML040,"yes, seaborn needs matplotlib",4,4
+BasicML040,"yes,for plotting graphs",3,3
+BasicML002,"Yes,it's a large platform where we find vast things to get learned and can provides us data. ",4,4
+BasicML040,"yes,Seaborn is a library of python and it uses for visualising the data based on matplotlib",4,4
+BasicML040,"Yes,seaborn uses matplotlib to draw the visualizations.",3,3
+BasicML002,Yes. As we can learn new language course for free,3,2
+BasicML002,Yes. Because it is good for beginners .all the content is given clearly and an excercise is given to practice.,4,3
+BasicML040,Yes. First matplotlib should be installed,4,4
+BasicML040,Yes. Seaborn is also a Python library used for plotting graphs with the help of matplotlib.,5,5
+BasicML002,"Yes.Because it provide lot of courses, computations .",3,2
+BasicML010,"You can use the drop function to delete rows and columns in a 
+Pandas DataFrame.",5,5

@@ -1,0 +1,149 @@
+QuestionID,QuestionText,QuestionType,Reference Answer
+PythonQ001,Write down the mutable data structures in Python?,Explain,"List, Set and Dictionary are mutable data structures in python"
+PythonQ002,Define a function?,Define,A function is a  reusable block of code that is intended to perform a single and specific task
+PythonQ003,What is the difference between list and tuple in python?,Difference,List and tuple differ in mutability. List is mutable where as tuple is immutable 
+PythonQ004,What is the difference between local variable and global variable?,Difference,Local and global variable differ scope. The scope of a local variable is restricted to a block in which it is initialised where as the scope of a global variable is extended to the entire program.
+PythonQ005,Write a python function to find the sum of elements in a list?,Remember,By using sum() function
+PythonQ006,Define a compiler?,Define,"A compiler is a system program, which translates a program from high level language to machine language."
+PythonQ007,Is indentation required for python? What does it specify?,Explain,"Yes, indentation is required for python. It specifies the block to which a line of code belongs"
+PythonQ008,What does [ : : -1 ] do in python?,Explain,"It reverses any linearly orderd sequence in python. For example it reverses list, tuple and string."
+PythonQ009,How to convert a string to lower case in Python?,Apply,By using string's built-in method lower()
+PythonQ010,"What is the purpose of ""in"" operator in Python?",Explain,"It is the membership operator and checks the presence of an object in anoter iterable object. lambda a,b : a+b is an anonymous function to calculate addition of two numbers. "
+PythonQ011,How to create anonymous functions in python?,Explain,Anonymous functions are created using lambda keyword in python.
+PythonQ012,What is meant by a module in python?,Define,"Modules are the files with "".py"" extension. The code in the modules can be imported in other python programs."
+PythonQ013,Write about python dictionary data structure?,Explain,Dictionary is an unordered collection of key-value pairs. Keys are immutable objects and values can be mutable or immutable. A dictionary contains unique keys in it. An empty dictionary is represented with {} or dict() in python.
+PythonQ014,What is the job of split() method in Python?,Define,"Split is a built-in method of strings. It takes two parameters sep, maxsplit. It returns the list of words of the given string by splitting the given string taking sep as delimitter and maxsplit as the maximum number of splits that it can make. "
+PythonQ015,What is meant by type conversion?,Define,Type conversion in python is a method of changing an object from one data type to another
+PythonQ016,What is meant by a comment? and how to write comments in python?,Define,"Comments are inexecutable lines in a program which are often written to increase the readability of the program. single-line comments in python are preceeded with #. Where as multi-line comments are written using multi-line strings. We use triple quotes ("""""" or ''') for multi-line comments in python."
+PythonQ017,differentiate between break and continue keywords of python.,Difference,Continue statement whenever executed skips that particular iteration of a loop in python. Where as break statement when executed termintes the execution of the loop.
+PythonQ018,Why Numpy arrays are advantageous than Python Lists?,Difference,"When compared with lists, numpy arrays use less memory, execution speed is faster, has multiple methods to facilitate mathematical operations."
+PythonQ019,How to import modules in Python?,Explain,"We can import python module using import keyword. For example, we can import math module using ""import math"" statement. We can also import specific functions of a module using from key word. ""from math import log"" can be used to import log() method from math module."
+PythonQ020,Write key features of Python.,Explain,"Features of Python are : dynamic, free and open source, object-oriented, easy to learn, GUI support, portable, high-level, huge library support."
+PythonQ021,Iterative functions perform better than Recursive functions. Why?,,"There will be more number of function calls, and more memory used in case of recursive functions. So, Iterative functions perform better than recursive functions."
+PythonQ022,write a python script to generate numbers from 50 to 500.,Apply,"for i in range(50,501):
+     print(i)
+or
+print([i for i in range(50,501)])"
+PythonQ023,What is the purpose of ** operator?,Explain,"** operator is used as exponentiation operator in python. a**b is equivalent to math.pow(a,b) in python."
+PythonQ024,Write about the division operators of Python.,Explain,"We have two division operators in python. They are ""/"" and ""//"". ""//"" is called as floor division and it gives the floor value of the obtained result. Whereas ""/"" operator gives the exact result. For example, 5//2 gives 2 and 5/2 gives 2.5"
+PythonQ025,Name few commonly used built-in modules of python?,Remember,"Some of the commonly used built-in python modules are : numpy, pandas, math, re, itertools"
+PythonQ026,"What is the purpose of ""pass"" statement in Python?",Explain,Pass statement in python is used to represent an empty block of code.
+PythonQ027,What is the difference between a compiler and an interpreter?,Difference,"Both the compiler and  the interpreter are system programs used to convert the high level language program int machine understandable form. A compiler translates the entire program at once, where as interpreter translates line by line. When comes to execution of the compiled code runs faster than the interpreted code."
+PythonQ028,Write a Python function to check whether all characters are digits or not in a string.,Apply,def check_numeric_string(str): return str.isnumeric()
+PythonQ029,How will you get the length of string?,Remember,By using len() built-in function
+PythonQ030,What is the use of min() and max() functions of Python?,Explain,"The min() function returns the item with the lowest value, or the item with the lowest value in an iterable. The max() function returns the item with the highest value, or the item with the highest value in an iterable."
+PythonQ031,How will you remove all leading whitespaces in String?,Apply,"By using lstrip(). lstrip() method, when no parameter is passed removes the leading spaces."
+PythonQ032,What is the difference between del and remove() in python?,Difference,The purpose of both is same but the behavior is different. del is a keyword used to delete object from the list using an index. remove() is a method used to delete values from the list using value.
+PythonQ033,When does a new block begin in Python?,Remember,Python uses indentation to define a new block. A code block starts with indentation and ends with the first unindented line.
+PythonQ034,Name the Python libraries used for Machine Learning?,Remember,"Some of the python libraries used for Machine Learning are numpy, pandas, matplotlib, scikit-learn, seaborn, tensorflow, pytorch, keras, scipy"
+PythonQ035,Define actual parameters?,Define,Actual parameters are the variables or values  passed to the function while calling.
+PythonQ036,How to return a value from a function?,Remember,By using return statement
+PythonQ037,"Explain the statement, ""By default the arguments are positional"".",Explain,"Positional arguments are arguments that need to be included in the proper position or order. The first positional argument always needs to be listed first when the function is called. The second positional argument needs to be listed second and the third positional argument listed third, etc. If the argument is not explicitly specified as a keyword argument, then by default position is given importance."
+PythonQ038,Write the syntax of Python's if-else ternary expression.,Remember,"if_expression if condition else else_expression. For example, a if a>b else b gives maximum of a, b."
+PythonQ039,What is meant by recursion?,Define,A function calling itself is called as recursion and that function is called as recursive function.
+PythonQ040,"Can we assign a default value to a formal parameter of function? If yes, How can we assign?",Explain,"yes, It is possible to assign default values to formal parameters in the function definition. def function_name(a,b,c=3,d=4): In the function header, c and d are the default arguments."
+PythonQ041,Write a Python function which takes two strings and return a list containing the characters in Common.,Apply,"def get_common_chars(str1, str2):
+    set2 = set(str2)
+    res = [i for i in str1 if i in set2]
+    return res"
+PythonQ042,What is the difference between read() and readlines() method in files.,Difference,read() method returns the entire content of a file in single string whereas readlines() function returns a list of all the lines in a file. 
+PythonQ043,How to convert a list into a set?,Remember,By using set()
+PythonQ044,What is the difference between append() and extend() methods of a list?,Difference,append() takes one object and appends that object to the list. Whereas extend() takes a list and extends the current list by ading all the elements from the given list.
+PythonQ045,Why count() method is used with python lists?,Explain,"The count() method is used to return the number of elements with the specified values. 
+Syntax : list.count(value)"
+PythonQ046,What is the default return value of the function?,Remember,None is the default return value of the function in python.
+PythonQ047,Lambda functions are used along with few built-in functions. What are they?,Define,"We can use lambda functions with buit-in functions like max(), min(), sorted(), filter(), reduce(), and map()"
+PythonQ048,What is meant by lifetime of a variable?,Define,The duration for which the computer allocates memory for a variable is referred as its lifetime.
+PythonQ049,Define formal parameters.,Define,Formal parameters are the parameters specified in the function header while defining the function.
+PythonQ050,What for Keyword arguments are used in Python?,Explain,"Keyword arguments are the values that are identifiable by the specific parameter names when passed into a function. A keyword argument is generally written as the parameter name, assignment operator and a value."
+PythonQ051,What is meant by an exception?,Define,"An exception is an event, which occurs during the execution of the program that disrupts the normal flow of the execution. In python, exception is an object that represents an error."
+PythonQ052,What are the keywords used for exception handling in Python?,Remember,"try, except, else and finally are the keywords used to handle exceptions in python."
+PythonQ053,What do you mean list comprehension?,Define,"List comprehension is an elegant way to define and create lists. List comprehension is generally more compact and faster than normal functions and loops for creating list. It is an easy technique to create lists in a single line from other iterables like String, tuple, dictinary, sets."
+PythonQ054,What are the benefits of default arguments in Python?,Explain,"Default arguments will be taken if no arguments given to the method. A user can give values to those parameters which they want to, provided that the other parameters have default argument values. 
+"
+PythonQ055,"Write a function with the name ""factorial"" to find factorial of a number in Python.",Apply,"def factorial(n):
+    if(n<2):
+        return 1
+    fact = 1
+    for i in range(2,n+1):
+        fact *= i
+    return fact"
+PythonQ056,What are advantages of recursion?,Explain,Code becomes more readable and understandable when recursion is used. 
+PythonQ057,Write about Variable length arguments?,Explain,"Variable-length arguments take an unspecified amoutn of input. Both non-keyword (tuple) and keyword arguments (dictionary) are taken as vaargs with the help of *args, **kwargs."
+PythonQ058,"Write a recursive function with the name ""factorial"" to find factorial of a number in Python.",Apply,"def factorial(n):
+    if(n<2):
+        return 1
+    return n*fact(n-1)
+"
+PythonQ059,Define a class.,Define,Class is a template for creating an object. An object can be manipulated while working through the code. A new object is intiated from scratch every time a class object is instantiated.
+PythonQ060,What is meant by an operator?,Define,"An operator is a symbol which tells the compiler or interpreter to perform specific mathematical, relational or logical operation and produce final result. some of the operators are +, -, *, / , %, <, >, = etc."
+PythonQ061,List out the different types of literals available in Python?,Difference,"Various types of literals available in Python are String, Numeric (int, float, complex), Boolean, Collections, and special literals."
+PythonQ062,Define an expression.,Define,An expression is a combination of operators and operands (variables or constants) that is interpreted to produce some other value. Expressions are evaluated as per the precedence and associativity of operators.
+PythonQ063,What is meant by Type Conversion in Python?,Define,Type conversion is the conversion of an object from one data type to another data type. Python supports both Implicit and Explicit Type Conversion.
+PythonQ064,What is meant by Explicit Type Conversion and what are the various functions exist to achieve this?,Explain,"The conversion of an object from one data type to the required data type is called Explicit Type Conversion. It is also called as Type Casting. Various built-in functions used to do Explicity Type Conversion are int(), float(), str(), bool(), bin(), oct(), hex() etc."
+PythonQ065,List various conditional statements available in Python.,Remember,"Various conditional statements available in Python are simple if statement, if else statement, nested if-else statement, if-elif-else statement."
+PythonQ066,What is meant by two-way decision statement? How can we write this in Python?,Explain,"The Two way decision statement works with a single condition. Based on the conditions Truth or Falsity one block of code is executed among the existing two block. Two way decision statement in Python is written with the help of if-else statement and the general structure of it is
+if codition:
+        True Block
+else:
+        False Block"
+PythonQ067,Write about if-else ladder in python.,Explain,"Multi-way decision statements can be written in Python using if-else ladder. if, else, and elif are the three keywords used to write this conditional statement. This statement will have more than one condition. If any of the condition is true, the corresponding body will be executed otherwise else block will be executed."
+PythonQ068,List out a minimum of 15 keywords of Python.,Remember,"and, as, assert, break, class, continue, def, del, elif, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, nonlocal, not, or, pass, raise, return, True, try, while, with, yield."
+BasicML001,Define Machine Learning,Define,Machine learning is an application of Artificial Intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.
+BasicML002,Do you like Kaggle? Why?,Explain,Yes. Kaggle offers many free online courses to begin Machine Learning. It provides lot of datasets and competitions to participate and explore.
+BasicML003,How to calculate the mean of a feature?,Apply,"Mean is the sum of all the elements divided by number of values. It can be calculated with the help of mean() method. for eg:
+dataset[feature].mean()"
+BasicML004,How to see the top five records of a DataFrame?,Remember,By using head() method of Pandas Dataframe
+BasicML005,What are the benefits of Google Colab?,Explain,"Sharing Google Colab notebooks is very easy. Versioning can be provided to the notebook by simply saving to Github. Colab has lot of pre-written code snippetss which can easily plug in to anyones code. It provides GPU which provides good performance. Best thing is, Google colab is Free."
+BasicML006,What is meant by a Dataset?,Define,"A dataset is a collection of data. In a tabular dataset every column represents a feature, and row corresponds to a given observation of the dataset."
+BasicML007,Define Algorithm?,Define,"A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer"
+BasicML008,Differentiate between population and sample?,Difference,A population is the entire group from which conclusions can be drawn. A sample is the specific group from which data can be collected. The size of the sample is less than or equal to the total size of the population.
+BasicML009,Differentiate exploratory and explanatory analysis?,Difference,"Exploratory analysis is done while searching for insights and used to find the answer to many questions. Explanatory analysis is performed to provide the accurate, insightful and visually appealing results to others."
+BasicML010,How to delete a column of a DataFrame using Pandas library?,Explain,The drop() method of pandas DataFrame removes the specified column.
+BasicML011,"Differentiate Univariate, Bivariate, and multivariate plot.",Difference,"Univariate plots visualize only one variable at a time, Bivariate plots can visualize and compare two variables and Multivariate plots can visualize more than two variables."
+BasicML013,How to read a csv file using Pandas?,Explain,"read_csv() method of pandas library is used to read csv files.
+eg: pd.read_csv(""filename.csv"")"
+BasicML014,name few classification algorithms?,Remember,"The most popular classification algorithms are Logistic Regression, Naive Bayes, K-Nearest Neighbors, Decision Tree, Support Vector Machines. "
+BasicML015,What are the features of Pandas Library?,Explain,"Python Pandas library provides a really fast and efficient way to manage and explore data. Pandas can be used to handle missing data, cleaning up data, indexing, merging and joining of datasets etc."
+BasicML016,What can be learned from a Scatter plot?,Explain,"Scatter plots are used to observe and show the relationship between two numeric variables, and for identifying other patterns in data. Scatter plots helps to identify the positive or negative, strong or weak, linear or non-linear relationships."
+BasicML017,What is meant by an outlier?,Explain,An outlier is an observation that lies an abnormal distance from other values in the dataset. These values are generally removed from the mass of the data.
+BasicML018,What is meant by Exploratory Data Analysis?,Define,"Exploratory Data Analysis (EDA) is used to analyze, investigate and summarize main characteristics of the dataset by employing data visualizaton methods. It is used to discover the trends, patterns, or to check assumptions in the data."
+BasicML019,What is meant by Supervised Learning?,Define,Supervised learning is a type of machine learning. It is defined by its use of labeled datasets to train algorithms to classify data or predict outcomes accurately. 
+BasicML020,What is the difference between binary classification and multiclass classification?,Difference,"Classifying the examples which are assigned exactly one of two classes is called Binary Classification.
+Classifying the examples which are assigned exactly one of more than two classes is called Multiclass Classification."
+BasicML021,What is the difference between Quantitative and Qualitative data?,Difference,"Quantitative data refers to the information that can be quantified, counted, or measured and given a numerical value. for eg: The number of students in a class.
+Qualitative data is descriptive in nature, expressed in terms of language rather than numerical values for eg: The native language of a person."
+BasicML022,How to calculate precision?,Explain,Precision quantifies the number of positive class predictions that actually belong to the positive class. It is calculated as the number of true positives divided by the total number of true positives and false positives.
+BasicML023,What are the advantages of NumPy library?,Explain,"The NumPy arrays have advantages like Multi-dimensional Slicing, Broadcasting Functionality, processing speed, vectorized operaions, memory footprint and it has many convenience methods."
+BasicML024,What is meant by Classification?,Define,Classification is a supervised learning approach in which the computer program learns from the data given to it and make new observations or classifications.
+BasicML025,What is meant by cross-validation?,Define,"Cross Validation is a statistical method of evaluating and comparing learning algorithms by dividing data into two segments. One segment is used to learn or train a model and the other is used to validate the model."
+BasicML026,What is meant by the accuracy of a model?,Explain,Accuracy is an evalution metric for classfication models. It can be defined as the number of classfications a model correctly predicts divided by the total number of predictions made.
+BasicML027,What is meant by Unsupervised Learning?,Define,"Unsupervised learning used machine learning algorithms to analyze and cluser unlabeled datasets. These algorithms discover hidden patterns or data groupings without the need for human intervention. Common unsupervised learning approaches are clustering, dimensionality reduction and it can applied in Computer Vision, Medical Imaging, Recommendation Engines etc."
+BasicML028,What is NumPy?,Define,"Numpy is a library for the Python programming language. It is a fundamental package for scientific computing. It adds support for large, multi-dimensinal arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays."
+BasicML029,What is the difference between Discrete and Continuous data?,Difference,"Quantitative data is sub classified as discrete and continuous data. Discrete data contains finite values that have nothing in-between. It can take only distinct or separate values. Continuous data contains data that can be measured, that includes fractions and decimals.
+Discrete data is Countable, where as Continuous data is measurable."
+BasicML030,What is the importance of Data Visualization?,Explain,"Data visualization is useful for data cleaning, exploring data structure, detecting outliers and unusual groups, identifying trends and clusters, spotting local patterns, evaluating modeling output, and presenting results. It is essential for exploratory data analysis and data mining to check data quality and to help analysts become familiar with the structure and features of the data before them.
+"
+BasicML031,What is the significance of Heatmap?,Explain,Heat Maps are graphical representations of data that utilize color-coded systems. The primary purpose of Heat Maps is to better visualize the volume of locations or events within a dataset and assist in directing viewers towards areas on data visulaizations that matter most.
+BasicML032,What is the significance of unique() method in Pandas library?,Explain,unique() method of pandas library returns unique values based on a hash table. Uniques are returned in order of appearance. This does not sort. pandas unique() is significantly faster than numpy.unique().
+BasicML033,Write about Mean Absolute Error (MAE),Define,Absolute error refers to the magnitude of difference between the prediction of an observation and the true value of that observation. MAE takes the average of absolute errors for a group of predictions and observations as a measurement of the magnitude of errors for the entire group.
+BasicML034,Write about Boxplot.,Explain,"A boxplot is a graph that gives a good indication of how the values in the data are spread out. Boxplots are a standardized way of displaying the distribution of data based on a five number summary (minimum - first quartile (Q1), median - third quartile (Q3), and maximum."
+BasicML035,List down some evaluation metrics for regression problems.,Remember,"The commonly used metrics for evaluating the performance of a regression model are Mean Squred Error (MSE), Root Mean Squared Error (RMSE), Mean Absolute Error(MAE)."
+BasicML037,What are the different plots used for doing Univariate analysis on categorical data?,Remember,"Univariate plotting can be done through Bar Chart, Line Chart, Area chart, Histogram."
+BasicML038,What are the five steps of the data analysis process?,Remember,"The steps that are implemented in the data analysis process are 
+1. Determining the objective
+2. Data Collection
+3. Data Cleaning
+4. Interpreting the data
+5. Sharing the results"
+BasicML039,What is meant by mode?,Define,"The mode is the value that appears most frequently in the dataset. A set of data may have one mode, more than one mode or no mode at all."
+BasicML040,Does Seaborn need Matplotlib?,Explain,Yes. Seaborn is also a Python library used for plotting graphs with the help of matplotlib.
+BasicML041,Write about Mean Squared Error (MSE)?,Define,The Mean Squared Error measures the average of error squares. Simply it is the average squared difference between the predicted and the true value.
+BasicML042,List down some evaluation metrics for classification problems.,Remember,"The performance of classification models is evaluated by using Accuracy, Precision, Recall, F1 score, Log loss or Binary crossentropy, categorical crossentropy, AUC."
+BasicML043,List steps to create a 1D array in NumPy library?,Explain,"One dimensional array contains elements only in one dimension. In other words, the shape of the numpy array should contain only one value in the tuple.
+To create a one dimensional array in Numpy, you can use either of the array(), arange() or linspace() numpy functions."
+BasicML044,What are the different plots used for doing Univariate analysis on quantitative data?,Remember,"Scatter Plot, Line Plot, Strip plot, Swarm Plot, Bar Chart, Pie chart"
+BasicML045,Write about Histogram.,Explain,A histogram is basically used to represent data provided in a form of some groups.It is accurate method for the graphical representation of numerical data distribution.It is a type of bar plot where X-axis represents the bin ranges while Y-axis gives information about frequency.
+BasicML046,write about isnull() method.,Explain,isnull() method is used to check and manage NULL values in a dataframe.
+BasicML047,Write about Nominal data?,Explain,"Nominal data is data that can be labelled or classified into mutually exclusive categories within a variable. These categories cannot be ordered in a meaningful way. For example, for the nominal variable of preferred mode of transportation, you may have the categories of car, bus, train, tram or bicycle."
+BasicML049,Write about train_test_split() method.,Explain,train_test_split() is a method of sklearn model selection. It is used to split the data into two subsets- training data and testing data.
